@@ -1,0 +1,25 @@
+{
+  "name": "cinebit_proyectofinal_backend",
+  "version": "1.0.0",
+  "description": "Cinebit es una plataforma de streaming desarrollada por un equipo de estudiantes de programación FullStack. La aplicación esta compuesta con tecnologías como: Angular como framework frontend, Node.js como lenguaje de programación para el backend, MongoDB como base de datos NoSQL, todo esto acompañado de la metodología SCRUM. para ofrecer una experiencia de visualización de alta calidad a los usuarios.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon main.js"
+  },
+  "keywords": [],
+  "author": "Andrea Campos, Andres Muños, Mauricio Salamanca y Stiven Torres",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.18.2",
+    "helmet": "^7.0.0",
+    "jsonwebtoken": "^9.0.0",
+    "mongodb": "^5.5.0",
+    "mongoose": "^7.1.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
