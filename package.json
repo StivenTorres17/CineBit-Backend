@@ -1,0 +1,31 @@
+{
+  "name": "cinebit-backend",
+  "version": "1.0.0",
+  "description": "cinebit-backend es el repositorio del backend de la aplicación web de streaming CineBit, desarrollado en Node con Express para rutas y controladores, Mongoose como ODM para la conexión con la base de datos, y JWT para autenticación y seguridad. Incluye código fuente completo, modelos de base de datos, controladores y rutas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StivenTorres17/CineBit-Backend.git"
+  },
+  "author": "Andrea Campos, Andres Muñoz, Mauricio Salamanca, Stiven Torres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StivenTorres17/CineBit-Backend/issues"
+  },
+  "homepage": "https://github.com/StivenTorres17/CineBit-Backend#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.18.2",
+    "helmet": "^7.0.0",
+    "jsonwebtoken": "^9.0.0",
+    "mongodb": "^5.5.0",
+    "mongoose": "^7.1.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
