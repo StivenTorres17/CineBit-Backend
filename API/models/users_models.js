@@ -1,56 +1,64 @@
-const userModel = require("../models/users_models");
+const mongoose = require("mongoose");
 
-exports.getAllUsers = (req, res) => {
-  userModel
-    .find( )
-    .then((users) => res.json(users))
-    .catch((err) => res.status(500).json({ error: err.message }));
-};
+//! Esta es la URI de la base de datos CineBit
+const Uri = "mongodb+srv://mauro210:Luisa210@cluster0.8wbty4w.mongodb.net/DBCineBit?retryWrites=true&w=majority";
 
-//? createUser nos permite crear un usuario siempre y cuando cumpla con lo siguientes atributos
-exports.createUser = (req, res) => {
-  const {
-    username, name, lastNames, email, password, phone, isChidProfile, preferences} = req.body;
-  const newUser = new userModel({
-    username,
-    name,
-    lastNames,
-    email,
-    password,
-    phone,
-    isChidProfile,
-    preferences
-  });
-
-  newUser
-    .save()
-    .then(() => res.status(201).json({ success: "created" }))
-    .catch((err) => res.status(500).json({ error: err.message }));
-};
-
-//? updateUser nos permite actualizar la informacion del usuario por meido del id
-exports.updateUser = (req, res) => {
-  const { id } = req.params;
-  const {username, name, lastNames, email, password, phone, isChidProfile, preferences} = req.body;
-  userModel
-    .findByIdAndUpdate(id, {username, name, lastNames, email, password, phone, isChidProfile, preferences}, { new: true })
-    .then((user) => {
-      if (!user) throw new Error("user whith id ${id} not found");
-      res.status(200).json(user);
+mongoose.connect(Uri,
+    {
+        useNewUrlParser: true,
+        useUnifiedTopology: true
     })
+    .then(() => console.log("Conexión exitosa a la Coleccion de Usuarios"))
+    .catch(err => console.log("Error al conectar a la base de datos", err));
 
-    .catch((err) => res.status(500).json({ error: err.message }));
-};
+const userSchema = new mongoose.Schema({
 
-//? deleteUser nos permite eliminar un usuario por medio del id
-exports.deleteUser = (req, res) => {
-  const { id } = req.params;
-  userModel
-    .findByIdAndDelete(id)
-    .then((user) => {
-      if (!user) throw new Error("user whith id ${id} not found");
-      res.status(200).json({ message: "user deleted" });
-    })
+    username: {
+        type: String,
+        required: true
+    },      //? Apodo del usuario
+    name: {
+        type: String,
+        required: true
+    },      //? Nombre de usuario 
+    lastNames: {
+        type: String,
+        required: true
+    },      //? Apellidos de usuario
+    email: {
+        type: String,
+        required: true,
+        unique: true
+    },      //? El correo electrónico del usuario
+    phone: {
+        type: Number,
+        required: true,
+        unique: true
+    },      //? El número de teléfono del usuario
+    password: {
+        type: String,
+        required: true
+    },      //? La contraseña del usuario
+    isChildProfile: {
+        type: Boolean,
+        required: false
+    },      //? Indica si el perfil es de un niño o no
+    preferences: [String]
+          //? Preferencias seleccionadas por el usuario
+   , history: [{
+        contentId: {
+            type: mongoose.Schema.Types.ObjectId,
+            ref: 'Content'
+        } // TODO: ID del contenido visto por el usuario
+    }],     //? Historial del usuario de contenido visto
+    favorites: [{
+        contentId:{
+       type: mongoose.Schema.Types.ObjectId,
+        ref: 'Content' 
+        }
+    }]      //? Contenido seleccionado como favorito por el usuario
 
-    .catch((err) => res.status(500).json({ error: err.message }));
-};
+}, { collection: 'Users' });
+
+//* Exportamos el modelo para ser utilizado en otros módulos
+module.exports = mongoose.model('users', userSchema);

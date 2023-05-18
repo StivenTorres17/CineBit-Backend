@@ -11,11 +11,11 @@ const port = 3000;
 
 
 // //? Se importa las rutas para las APIs de usuarios y contenido.
-const users_routes = require("./API_Users/routes/users_routes");
-const content_routers = require("./API_Users/routes/content_routes");
+const users_routes = require("./API/routes/users_routes");
+const content_routers = require("./API/routes/content_routes");
 
-app.use(helmet());              //TODO: Ayuda a proteger la aplicación configurando diversos encabezados HTTP.
-app.use(morgan("combined"));    //TODO:  Imprime en consola información detallada sobre cada solicitud entrante al servidor.
+// app.use(helmet());              //TODO: Ayuda a proteger la aplicación configurando diversos encabezados HTTP.
+// app.use(morgan("combined"));    //TODO:  Imprime en consola información detallada sobre cada solicitud entrante al servidor.
 app.use(express.json());        //TODO: Convierte el cuerpo de la solicitud en un objeto JSON.
 
 
