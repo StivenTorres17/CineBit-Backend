@@ -53,38 +53,48 @@ exports.updateUser = (req, res) => {
     email,
     password,
     phone,
-    isChidProfile,
+    isChildProfile,
     preferences,
   } = req.body;
-  bcrypt
-    .hash(password, saltRounds, function (err, hash) {
+
+  const saltRounds = 10;
+
+  if (password) {
+    bcrypt.hash(password, saltRounds, function (err, hash) {
       if (err) {
         res.status(500).json({ error: err.message });
       } else {
-        userModel
-          .findByIdAndUpdate(
-            id,
-            {
-              username,
-              name,
-              lastNames,
-              email,
-              password,
-              phone,
-              isChidProfile,
-              preferences,
-            },
-            { new: true }
-          )
-          .then((user) => {
-            if (!user) throw new Error("user whith id ${id} not found");
-            res.status(200).json(user);
-          });
+        updateUserWithHash(id, username, name, lastNames, email, hash, phone, isChildProfile, preferences, res);
       }
-    })
-    .catch((err) => res.status(500).json({ error: err.message }));
+    });
+  } else {
+    updateUserWithHash(id, username, name, lastNames, email, null, phone, isChildProfile, preferences, res);
+  }
 };
 
+function updateUserWithHash(id, username, name, lastNames, email, hash, phone, isChildProfile, preferences, res) {
+  const updateFields = {
+    username,
+    name,
+    lastNames,
+    email,
+    phone,
+    isChildProfile,
+    preferences,
+  };
+
+  if (hash) {
+    updateFields.password = hash;
+  }
+
+  userModel
+    .findByIdAndUpdate(id, updateFields, { new: true })
+    .then((user) => {
+      if (!user) throw new Error(`User with id ${id} not found`);
+      res.status(200).json(user);
+    })
+    .catch((err) => res.status(500).json({ error: err.message }));
+}
 
 //? deleteUser nos permite eliminar un usuario por medio del id
 exports.deleteUser = (req, res) => {
