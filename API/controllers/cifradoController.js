@@ -1,8 +1,8 @@
 const { hash } = require("bcryptjs");
 
-const bcrypt = require (bcryptjs);// cifrado de contraseña
+const bcrypt = require (bcryptjs);//? cifrado de contraseña
 
-// como vamos a mostrar la informacion
+//? como vamos a mostrar la informacion
 
 const saltRounds = 20;
 const plainPassword = "password123";
@@ -14,7 +14,7 @@ bcrypt.hash (plainPassword,saltRounds, function(error, hash) {
     }else{
         console.log("se creo el hash de la contraseña", hash);
     }
-})// esta es la logica para poder cifrar contraseñas 
+})//? esta es la logica para poder cifrar contraseñas 
 
 const hashedPassword = "$2b$10$";
 const loginPassword = "password123";
