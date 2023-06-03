@@ -4,7 +4,7 @@ const router = express.Router();
 
 const authController = require ("../controllers/authController.js")
 
-//importar el userController
+//? importar el userController
 const users_controllers= require("../controllers/users_controllers");
 
 router.get('/', users_controllers.getAllUsers);
