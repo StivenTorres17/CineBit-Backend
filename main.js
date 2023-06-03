@@ -1,7 +1,6 @@
 // //? Se importa la librería express y los middlewares morgan y helmet.
 const express = require("express");
-const morgan = require("morgan");
-const helmet = require("helmet");
+const cors = require ("cors")
 
 // //? Se guarda en la constante app todos los métodos de la librería express.
 const app = express();
@@ -22,6 +21,11 @@ app.use(express.json());        //TODO: Convierte el cuerpo de la solicitud en u
 // //? Se definen las rutas principales para el acceso a la información de la base de datos que contiene ambas colecciones.
 app.use('/users', users_routes);
 app.use('/Content', content_routers);
+app.use(cors(
+  {
+    origin:"*"
+  }
+))
 
 // //? Se inicia el servidor y se muestra en consola el puerto en el que está corriendo.
  app.listen(port, () => {

@@ -1,5 +1,6 @@
 const mongoose = require("mongoose");
 
+
 //! Esta es la URI de la base de datos CineBit
 const Uri = "mongodb+srv://mauro210:Luisa210@cluster0.8wbty4w.mongodb.net/DBCineBit?retryWrites=true&w=majority";
 
