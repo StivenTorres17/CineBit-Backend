@@ -8,5 +8,6 @@ exports.getAllcontent = (req, res) => {
      
   .find() //? Con el metodo find podemos enlistar nuestro documentos
     .then((Content) => res.json(Content)) //? Con el metodo then nos muestra la informacion en un formato .json
-    .catch((err) => res.status(500).json({ error: err.message })); //? Con el metodo catch nos muestra el error
+    .catch((err) => res.status(404).json({ error: err.message })); //? Con el metodo catch nos muestra el error
 };
+//!

@@ -1,0 +1,2181 @@
+[{
+    "_id": {
+      "$oid": "6461953dbdbb0a0edf67e5e8"
+    },
+    "title": "The Exorcist",
+    "description": "Cuando una niña de doce años es poseída por un demonio, su madre busca la ayuda de dos sacerdotes para realizar un exorcismo.",
+    "images": [
+      {
+        "mainImg": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rQU3sOBms4WA7iFAqBCtbMXgaB8.jpg",
+        "secondaryImg": "https://www.themoviedb.org/t/p/w533_and_h300_bestv2/xcjJ5khg2yzOa282mza39Lbrm7j.jpg",
+        "verticalMinImg": "https://www.themoviedb.org/t/p/w500_and_h282_face/w7T0BbyRWrVhJY6W6fDx8X6ektP.jpg",
+        "horizontalMinImg": "https://www.themoviedb.org/t/p/w500_and_h282_face/xcjJ5khg2yzOa282mza39Lbrm7j.jpg"
+      }
+    ],
+    "type": "Movie",
+    "category": "Horror",
+    "franchise": [
+      {
+        "isFranchise": false,
+        "franchiseName": null
+      }
+    ],
+    "duration": [
+      {
+        "timeDuration": 122,
+        "seasonDuration": null
+      }
+    ],
+    "year": 1973,
+    "director": "William Friedkin",
+    "cast": [
+      "Ellen Burstyn",
+      "Max von Sydow",
+      "Linda Blair"
+    ],
+    "classification": "R",
+    "videos": [
+      {
+        "mainVideoUrl": "https://www.example.com/the-exorcist/main-video.mp4",
+        "secondaryVideoUrl": "",
+        "additionalVideoUrl": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6461953dbdbb0a0edf67e5e9"
+    },
+    "title": "The Shining",
+    "description": "Un hombre acepta un trabajo como conserje de un hotel aislado durante el invierno, pero la soledad comienza a afectar su cordura..",
+    "images": [
+      {
+        "mainImg": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/p9hqo2JWhBytLxskz4FBKcP2e1k.jpg",
+        "secondaryImg": "https://www.themoviedb.org/t/p/w500_and_h282_face/2CrV8d8r8XcUW4SRjACFXoly1E8.jpg",
+        "verticalMinImg": "https://www.themoviedb.org/t/p/w500_and_h282_face/AdKA2F1SzYPhSZdEbjH1Zh75UVQ.jpg",
+        "horizontalMinImg": "https://www.themoviedb.org/t/p/w500_and_h282_face/mmd1HnuvAzFc4iuVJcnBrhDNEKr.jpg"
+      }
+    ],
+    "type": "Movie",
+    "category": "Horror",
+    "franchise": [
+      {
+        "isFranchise": false,
+        "franchiseName": null
+      }
+    ],
+    "duration": [
+      {
+        "timeDuration": 146,
+        "seasonDuration": null
+      }
+    ],
+    "year": 1980,
+    "director": "Stanley Kubrick",
+    "cast": [
+      "Jack Nicholson",
+      "Shelley Duvall",
+      "Danny Lloyd"
+    ],
+    "classification": "R",
+    "videos": [
+      {
+        "mainVideoUrl": "https://www.example.com/the-shining/main-video.mp4",
+        "secondaryVideoUrl": "",
+        "additionalVideoUrl": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6461953dbdbb0a0edf67e5ea"
+    },
+    "title": "Hereditary",
+    "description": "Tras la muerte de su madre, una mujer descubre oscuros secretos sobre el pasado de su familia que amenazan con destruirla a ella y a sus seres queridos.",
+    "images": [
+      {
+        "mainImg": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/oE5TS72U6tNdXKK42HpF2NULv4u.jpg",
+        "secondaryImg": "https://www.themoviedb.org/t/p/w500_and_h282_face/gJbTXKNTL6O7r7PzF6ZRkJGBlPp.jpg",
+        "verticalMinImg": "https://www.themoviedb.org/t/p/w500_and_h282_face/pS9Aub8MPyQbENblGD8mHeaqMuv.jpg",
+        "horizontalMinImg": "https://www.themoviedb.org/t/p/w500_and_h282_face/4DUoPZOHdPuROP4nyEIsPaMIiQl.jpg"
+      }
+    ],
+    "type": "Movie",
+    "category": "Horror",
+    "franchise": [
+      {
+        "isFranchise": false,
+        "franchiseName": null
+      }
+    ],
+    "duration": [
+      {
+        "timeDuration": 127,
+        "seasonDuration": null
+      }
+    ],
+    "year": 2018,
+    "director": "Ari Aster",
+    "cast": [
+      "Toni Collette",
+      "Alex Wolff",
+      "Milly Shapiro"
+    ],
+    "classification": "R",
+    "videos": [
+      {
+        "mainVideoUrl": "https://www.example.com/hereditary/main-video.mp4",
+        "secondaryVideoUrl": "",
+        "additionalVideoUrl": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6461953dbdbb0a0edf67e5eb"
+    },
+    "title": "A Quiet Place",
+    "description": "En un mundo post-apocalíptico invadido por criaturas que cazan por medio del sonido, una familia debe navegar sus vidas en silencio para mantenerse con vida.",
+    "images": [
+      {
+        "mainImg": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/bBcQiubPGb7LgcRgT2kwC8YOWVo.jpg",
+        "secondaryImg": "https://www.themoviedb.org/t/p/w500_and_h282_face/2H4KB4sUb6CBpCuwvIMvg9zGFYP.jpg",
+        "verticalMinImg": "https://www.themoviedb.org/t/p/w500_and_h282_face/k4ofiSDIouhJTiDpD5YpkxXivZo.jpg",
+        "horizontalMinImg": "https://www.themoviedb.org/t/p/w500_and_h282_face/j3NHSxFuDI4N6YC9Goid52K5A4l.jpg"
+      }
+    ],
+    "type": "Movie",
+    "category": "Horror",
+    "franchise": [
+      {
+        "isFranchise": false,
+        "franchiseName": null
+      }
+    ],
+    "duration": [
+      {
+        "timeDuration": 90,
+        "seasonDuration": null
+      }
+    ],
+    "year": 2018,
+    "director": "John Krasinski",
+    "cast": [
+      "Emily Blunt",
+      "John Krasinski",
+      "Millicent Simmonds"
+    ],
+    "classification": "PG-13",
+    "videos": [
+      {
+        "mainVideoUrl": "https://www.themoviedb.org/video/play?key=nvPdDhmLMAI",
+        "secondaryVideoUrl": "",
+        "additionalVideoUrl": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6461953dbdbb0a0edf67e5ec"
+    },
+    "title": "The Haunting of Hollow Grove",
+    "description": "Después de que un grupo de adolescentes despierte accidentalmente un antiguo mal en los bosques que rodean su pequeño pueblo, deben luchar por sus vidas mientras la entidad comienza a poseerlos y atormentarlos uno por uno..",
+    "images": [
+      {
+        "mainImg": "https://example.com/the-haunting-of-hollow-grove/main-image.jpg",
+        "secondaryImg": "https://example.com/the-haunting-of-hollow-grove/secondary-image.jpg",
+        "verticalMinImg": "https://example.com/the-haunting-of-hollow-grove/vertical-min-image.jpg",
+        "horizontalMinImg": "https://example.com/the-haunting-of-hollow-grove/horizontal-min-image.jpg",
+        "bigVerticalImg": "https://example.com/the-haunting-of-hollow-grove/big-vertical-image.jpg"
+      }
+    ],
+    "type": "Movie",
+    "category": "Horror",
+    "franquicia": [
+      {
+        "isFranchise": false,
+        "franchiseName": null
+      }
+    ],
+    "duración": [
+      {
+        "tiempoDuración": 120,
+        "temporadaDuración": null
+      }
+    ],
+    "año": 2022,
+    "director": "Sarah Johnson",
+    "elenco": [
+      "Avery Williams",
+      "Tyler Nguyen",
+      "Emily Martinez",
+      "Samantha Lee",
+      "David Kim"
+    ],
+    "clasificación": "R",
+    "videos": [
+      {
+        "mainVideoUrl": "https://example.com/the-haunting-of-hollow-grove/main-trailer.mp4",
+        "secondaryVideoUrl": "https://example.com/the-haunting-of-hollow-grove/secondary-trailer.mp4",
+        "additionalVideoUrl": "https://example.com/the-haunting-of-hollow-grove/additional-trailer.mp4"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6461953dbdbb0a0edf67e5ed"
+    },
+    "title": "The Darkening",
+    "description": "Mientras una llamarada solar masiva provoca un apagón mundial, un grupo de extraños queda atrapado en un hotel donde deben enfrentarse a una fuerza malévola que comienza a eliminarlos uno por uno.",
+    "images": [
+      {
+        "mainImg": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/dDrU5ZhjqPLkCbuuzc9TNecPtS5.jpg",
+        "secondaryImg": "https://example.com/the-darkening/secondary-image.jpg",
+        "verticalMinImg": "https://example.com/the-darkening/vertical-min-image.jpg",
+        "horizontalMinImg": "https://example.com/the-darkening/horizontal-min-image.jpg",
+        "bigVerticalImg": "https://example.com/the-darkening/big-vertical-image.jpg"
+      }
+    ],
+    "type": "Movie",
+    "category": "Horror",
+    "franquicia": [
+      {
+        "isFranchise": false,
+        "franchiseName": null
+      }
+    ],
+    "duración": [
+      {
+        "tiempoDuración": 110,
+        "temporadaDuración": null
+      }
+    ],
+    "año": 2022,
+    "director": "James Smith",
+    "elenco": [
+      "Liam Jackson",
+      "Megan Anderson",
+      "Ava Roberts",
+      "Jack Nguyen",
+      "Olivia Taylor"
+    ],
+    "clasificación": "R",
+    "videos": [
+      {
+        "mainVideoUrl": "https://example.com/the-haunting-of-hollow-grove/main-trailer.mp4",
+        "secondaryVideoUrl": "https://example.com/the-haunting-of-hollow-grove/secondary-trailer.mp4",
+        "additionalVideoUrl": "https://example.com/the-haunting-of-hollow-grove/additional-trailer.mp4"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6461953dbdbb0a0edf67e5ee"
+    },
+    "title": "Candyman",
+    "description": "Anthony McCoy es un artista visual y nativo de Chicago. Cuando regresa a la ciudad, se obsesiona con la leyenda de Candyman, un asesino sobrenatural que se dice que aparece cuando se invoca su nombre cinco veces en un espejo. La curiosidad de Anthony sobre Candyman lo lleva por un camino peligroso cuando se convierte en un conducto para el alboroto asesino del espíritu vengativo.",
+    "images": [
+      {
+        "mainImg": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/40FuQAiHjCvh9fYFigGAVWJ6Czu.jpg",
+        "secondaryImg": "https://www.themoviedb.org/t/p/w500_and_h282_face/mCaolOVQ5Y9Hfv3R2izakXo6UJg.jpg",
+        "verticalMinImg": "https://www.themoviedb.org/t/p/w500_and_h282_face/g1cMEQnEptUJ7Sv8SRjWBTTHyMv.jpg",
+        "horizontalMinImg": "https://www.themoviedb.org/t/p/w500_and_h282_face/iPlNb8gGfTLqDdOhJBSasH8fSTQ.jpg ",
+        "bigVerticalImg": "https://www.themoviedb.org/t/p/w500_and_h282_face/f3MhMXoaLL1kCMXvNUB0sazbr22.jpg"
+      }
+    ],
+    "type": "Movie",
+    "category": "Horror",
+    "franquicia": [
+      {
+        "isFranchise": true,
+        "franchiseName": "Candyman"
+      }
+    ],
+    "duración": [
+      {
+        "tiempoDuración": 91,
+        "temporadaDuración": null
+      }
+    ],
+    "año": 2021,
+    "director": "Nia DaCosta",
+    "elenco": [
+      "Yahya Abdul-Mateen II",
+      "Teyonah Parris",
+      "Nathan Stewart-Jarrett"
+    ],
+    "clasificación": "R",
+    "videos": [
+      {
+        "mainVideoUrl": "https://www.themoviedb.org/video/play?key=S5rfKQXpEWA",
+        "secondaryVideoUrl": "",
+        "additionalVideoUrl": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6461953dbdbb0a0edf67e5ef"
+    },
+    "title": "Malignant",
+    "description": "Madison está paralizada por impactantes visiones de espeluznantes asesinatos, y su tormento empeora cuando descubre que estos sueños despiertos son, de hecho, realidades aterradoras. Malignant es un thriller de terror dirigido por James Wan, el creador de las franquicias Saw y Conjuring.",
+    "images": [
+      {
+        "mainImg": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/3Lq3VTrxyMjIMiI91rI6RPqScsu.jpg",
+        "secondaryImg": "https://www.themoviedb.org/t/p/w500_and_h282_face/eG58uvQKZFAFxAFYC01HWMibRfa.jpg",
+        "verticalMinImg": "https://www.themoviedb.org/t/p/w500_and_h282_face/hKVLDmITos1jVUIQXIwYGhpLLh4.jpg",
+        "horizontalMinImg": "https://www.themoviedb.org/t/p/w500_and_h282_face/gqG7a2X9dB6isdqeLCyQpmO3Wkm.jpg",
+        "bigVerticalImg": ""
+      }
+    ],
+    "type": "Movie",
+    "category": "Horror",
+    "franquicia": [
+      {
+        "isFranchise": false,
+        "franchiseName": null
+      }
+    ],
+    "duración": [
+      {
+        "tiempoDuración": 111,
+        "temporadaDuración": null
+      }
+    ],
+    "año": 2021,
+    "director": "James Wan",
+    "elenco": [
+      "Annabelle Wallis",
+      "Maddie Hasson",
+      "George Young"
+    ],
+    "clasificación": "R",
+    "videos": [
+      {
+        "mainVideoUrl": "https://www.themoviedb.org/video/play?key=MaarPZzuq_M",
+        "secondaryVideoUrl": "",
+        "additionalVideoUrl": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6461953dbdbb0a0edf67e5f0"
+    },
+    "title": "The Invisible Man",
+    "description": "Cuando el ex abusivo de Cecilia se quita la vida y deja su fortuna, ella sospecha que su muerte fue un engaño. A medida que una serie de coincidencias se vuelven letales, Cecilia trabaja para demostrar que alguien que nadie puede ver la está persiguiendo.",
+    "images": [
+      {
+        "mainImg": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/xk4RpcvVQ7JmnrkQtZ479EwWieT.jpg",
+        "secondaryImg": "https://www.themoviedb.org/t/p/w500_and_h282_face/xi3iDYV7sCBxYWItdEwmvFWhvC2.jpg",
+        "verticalMinImg": "https://www.themoviedb.org/t/p/w500_and_h282_face/uZMZyvarQuXLRqf3xdpdMqzdtjb.jpg",
+        "horizontalMinImg": "https://www.themoviedb.org/t/p/w500_and_h282_face/hiGjyrNhojSgugIqd0xhd70rCRD.jpg"
+      }
+    ],
+    "type": "Movie",
+    "category": "Horror",
+    "franquicia": [
+      {
+        "isFranchise": false,
+        "franchiseName": null
+      }
+    ],
+    "duración": [
+      {
+        "tiempoDuración": 124,
+        "temporadaDuración": null
+      }
+    ],
+    "año": 2020,
+    "director": "Leigh Whannell",
+    "elenco": [
+      "Elisabeth Moss",
+      "Aldis Hodge",
+      "Storm Reid",
+      "Harriet Dyer",
+      "Michael Dorman",
+      "Oliver Jackson-Cohen"
+    ],
+    "clasificación": "R",
+    "videos": [
+      {
+        "mainVideoUrl": "https://www.themoviedb.org/video/play?key=kokuKg2aq94",
+        "secondaryVideoUrl": "https://www.themoviedb.org/video/play?key=Aeyoz3kLt_c",
+        "additionalVideoUrl": null
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6461953dbdbb0a0edf67e5f1"
+    },
+    "title": "Relic",
+    "description": "Una hija, madre y abuela están atormentadas por una manifestación de demencia que consume el hogar de su familia..",
+    "images": [
+      {
+        "mainImg": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/4TinKYaZtNThqo2sac1dHYv0yic.jpg",
+        "secondaryImg": "https://www.themoviedb.org/t/p/w500_and_h282_face/lfmXUeD8qHCFUsJEusSQC3M74CR.jpg",
+        "verticalMinImg": "https://www.themoviedb.org/t/p/w500_and_h282_face/vpUUznNzW85xo02H16RaSxRNS1.jpg",
+        "horizontalMinImg": "https://www.themoviedb.org/t/p/w500_and_h282_face/beNLniUH5DLbLbiqQgAJkiIlgpw.jpg",
+        "bigVerticalImg": "https://www.themoviedb.org/t/p/w500_and_h282_face/lfmXUeD8qHCFUsJEusSQC3M74CR.jpg"
+      }
+    ],
+    "type": "Movie",
+    "category": "Horror",
+    "franquicia": [
+      {
+        "isFranchise": false,
+        "franchiseName": null
+      }
+    ],
+    "duración": [
+      {
+        "tiempoDuración": 89,
+        "temporadaDuración": null
+      }
+    ],
+    "año": 2020,
+    "director": "Natalie Erika James",
+    "elenco": [
+      "Emily Mortimer",
+      "Robyn Nevin",
+      "Bella Heathcote"
+    ],
+    "clasificación": "R",
+    "videos": [
+      {
+        "mainVideoUrl": "https://www.themoviedb.org/video/play?key=KYTQLRnagxA",
+        "secondaryVideoUrl": "https://www.themoviedb.org/video/play?key=KYTQLRnagxA",
+        "additionalVideoUrl": null
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6461953dbdbb0a0edf67e5f2"
+    },
+    "title": "Un don excepcional",
+    "description": "Frank Adler es un hombre soltero que crió a su sobrina Mary una niña talentosa, en una ciudad en la costa de Florida. Frank quiere para Mary una vida normal pero las habilidades matemáticas a los siete años de la niña llaman la atención de la madre de Frank, Evelyn cuyos planes amenazan con separar a Frank y Mary.",
+    "images": [
+      {
+        "mainImg": "https://www.themoviedb.org/t/p/original/jGDbXh7GjoQrh6fnmN7fmvJ7lLw.jpg",
+        "secondaryImg": "https://www.themoviedb.org/t/p/original/CVWE2c4lHh87u8vjdtP96EhCJh.jpg",
+        "verticalMinImg": "https://www.themoviedb.org/t/p/original/6MmYsaK6poR8f4R8jsBnJBU5tfd.jpg",
+        "horizontalMinImg": "https://www.themoviedb.org/t/p/original/aH63TQfTFgAT8tYZs0CjDsqfMo2.jpg",
+        "bigVerticalImg": "https://www.themoviedb.org/t/p/original/dkfY3oWQUqKwPSYVRmeZCBG6Z8j.jpg"
+      }
+    ],
+    "type": "pelicula",
+    "category": "Drama",
+    "franchise": [
+      {
+        "isFranchise": false,
+        "franchiseName": null
+      }
+    ],
+    "duration": [
+      {
+        "timeDuration": 200,
+        "seasonDuration": null
+      }
+    ],
+    "year": 2017,
+    "director": "Marc Webb",
+    "cast": [
+      "Chris Evans, Mckenna Grace, Lindsay Duncan, Jenny Slate"
+    ],
+    "classification": "+13",
+    "videos": [
+      {
+        "mainVideoUrl": "https://www.youtube.com/watch?v=7Bm4_SPYoBY&ab_channel=TrailersyEstrenos",
+        "secondaryVideoUrl": "",
+        "additionalVideoUrl": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6461953dbdbb0a0edf67e5f3"
+    },
+    "title": "Deseo Prohibido",
+    "description": "En 1856, dos mujeres establecen una estrecha relación a pesar de su aislamiento en la frontera estadounidense.",
+    "images": [
+      {
+        "mainImg": "https://www.themoviedb.org/t/p/original/2OmzM4AyZahTkvL29CJXBZL18gV.jpg",
+        "secondaryImg": "https://www.themoviedb.org/t/p/original/itjQqBMOC5A16XeNUQJ9BiU9uMZ.jpg",
+        "verticalMinImg": "",
+        "horizontalMinImg": "https://www.themoviedb.org/t/p/original/eIcMFyHJPydabnRfhw6MsSkTupe.jpg",
+        "bigVerticalImg": ""
+      }
+    ],
+    "type": "pelicula",
+    "category": "Drama",
+    "franchise": [
+      {
+        "isFranchise": false,
+        "franchiseName": null
+      }
+    ],
+    "duration": [
+      {
+        "timeDuration": 105,
+        "seasonDuration": null
+      }
+    ],
+    "year": 2021,
+    "director": "Mona Fastvold",
+    "cast": [
+      "Katherine Waterston, Casey Affleck, Vanessa Kirby, Christopher Abbott"
+    ],
+    "classification": "+18",
+    "videos": [
+      {
+        "mainVideoUrl": "https://www.youtube.com/watch?v=4j4UlO9lmWQ&ab_channel=TutuqaTRAILERS",
+        "secondaryVideoUrl": null,
+        "additionalVideoUrl": null
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6461953dbdbb0a0edf67e5f4"
+    },
+    "title": "En el corazón del mar",
+    "description": "En el invierno de 1820, el ballenero de Nueva Inglaterra Essex fue agredido por algo a lo que nadie podía dar crédito: una ballena de tamaño y voluntad descomunal, con un sentido de la venganza casi humano. Este hecho real que supuso un desastre marítimo fue la inspiración para Moby-Dick de Melville. Pero la novela solo contó la mitad de la historia. “En el corazón del mar” revela las horribles consecuencias del encuentro, cuando los supervivientes de la tripulación fueron forzados hasta el límite y se vieron obligados a hacer lo impensable para mantenerse vivos. Enfrentándose a las tormentas, el hambre, el pánico, y la desesperación, los hombres llegan a dudar hasta de sus creencias más profundas, desde el valor de sus vidas a la moralidad de su oficio, mientras el capitán intenta orientarse en el mar abierto y su primer oficial sigue empeñado en conquistar a la gran ballena.",
+    "images": [
+      {
+        "mainImg": "https://www.themoviedb.org/t/p/original/xjE8aylY2QCpcE0R8eIJ6fFAWa0.jpg",
+        "secondaryImg": "https://www.themoviedb.org/t/p/original/37VrnC4lGMQHdzhtRuQL5eZ6M8w.jpg",
+        "verticalMinImg": "",
+        "horizontalMinImg": "https://www.themoviedb.org/t/p/original/uHgjKc8lzX2TGTRy2AAnT0O7Qc6.jpg",
+        "bigVerticalImg": ""
+      }
+    ],
+    "type": "pelicula",
+    "category": "Drama",
+    "franchise": [
+      {
+        "isFranchise": false,
+        "franchiseName": null
+      }
+    ],
+    "duration": [
+      {
+        "timeDuration": 127,
+        "seasonDuration": null
+      }
+    ],
+    "year": 2015,
+    "director": "Ron Howard",
+    "cast": [
+      "Chris Hemsworth, Benjamin Walker, Cillian Murphy, Brendan Gleeson, Ben Whishaw, Michelle Fairley"
+    ],
+    "classification": "+15",
+    "videos": [
+      {
+        "mainVideoUrl": "https://www.youtube.com/watch?v=iRNr0KJU5SA&ab_channel=Estrenopelis.net",
+        "secondaryVideoUrl": "",
+        "additionalVideoUrl": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6461953dbdbb0a0edf67e5f5"
+    },
+    "title": "Lo imposible",
+    "description": "Diciembre del año 2004. María (Naomi Watts), Henry (Ewan McGregor) y sus tres hijos pequeños vuelan desde Japón a Tailandia para pasar las vacaciones de Navidad en la playa. Una mañana, mientras se encuentran todos en la piscina del complejo a orillas del mar, un tremendo tsunami destroza el hotel y gran parte de la costa del sudeste asiático. Este desastre cambió para siempre la vida de millones de personas. Esta es sólo la historia de una familia.",
+    "images": [
+      {
+        "mainImg": "https://www.themoviedb.org/t/p/original/oTtdBrZOaczS4ZcBJ0ZCzG65A4L.jpg",
+        "secondaryImg": "https://www.themoviedb.org/t/p/original/ukHPpxrhbPIuuUFMOLfeEq50oyz.jpg",
+        "verticalMinImg": "https://www.themoviedb.org/t/p/original/6xyZP1DgByVN2NbTgYwQFhQVFsv.jpg",
+        "horizontalMinImg": "https://www.themoviedb.org/t/p/original/ooiwiu1fUx2heZrqL0QmIveNT7m.jpg",
+        "bigVerticalImg": ""
+      }
+    ],
+    "type": "pelicula",
+    "category": "Drama",
+    "franchise": [
+      {
+        "isFranchise": false,
+        "franchiseName": null
+      }
+    ],
+    "duration": [
+      {
+        "timeDuration": 114,
+        "seasonDuration": null
+      }
+    ],
+    "year": 2012,
+    "director": "J. A. Bayona",
+    "cast": [
+      "Naomi Watts, Ewan McGregor, Tom Holland, Samuel Joslin, Oaklee Pendergast, Marta Etura"
+    ],
+    "classification": "+15",
+    "videos": [
+      {
+        "mainVideoUrl": "https://www.youtube.com/watch?v=aurSS82DvCI&ab_channel=TrailersyEstrenos",
+        "secondaryVideoUrl": "",
+        "additionalVideoUrl": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6461953dbdbb0a0edf67e5f6"
+    },
+    "title": "Diario de una pasión",
+    "description": "Un joven pobre pero apasionado se enamora de una mujer joven y rica, dándole una sensación de libertad, pero pronto se separan debido a sus diferencias sociales.",
+    "images": [
+      {
+        "mainImg": "https://www.themoviedb.org/t/p/original/kdJNpBcLJH0nDis8cjQHGjaAbRl.jpg",
+        "secondaryImg": "https://www.themoviedb.org/t/p/original/zdXnJqBaGFVtLoPNuMeKfEYUViZ.jpg",
+        "verticalMinImg": "https://www.themoviedb.org/t/p/original/d0QqT6R6CDIXwzqoD0NA3gdGQrU.jpg",
+        "horizontalMinImg": "https://www.themoviedb.org/t/p/original/j0Ce4AsZi34NKYUZr61lh0PBQ7G.jpg",
+        "bigVerticalImg": ""
+      }
+    ],
+    "type": "pelicula",
+    "category": "Drama",
+    "franchise": [
+      {
+        "isFranchise": false,
+        "franchiseName": null
+      }
+    ],
+    "duration": [
+      {
+        "timeDuration": 123,
+        "seasonDuration": null
+      }
+    ],
+    "year": 2004,
+    "director": "Nick Cassavetes",
+    "cast": [
+      "Rachel McAdams, Ryan Gosling, Gena Rowlands, James Garner, Sam Shepard"
+    ],
+    "classification": "+15",
+    "videos": [
+      {
+        "mainVideoUrl": "https://www.youtube.com/watch?v=Vinyw3S2MZ8&ab_channel=patmarin1",
+        "secondaryVideoUrl": "",
+        "additionalVideoUrl": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6461953dbdbb0a0edf67e5f7"
+    },
+    "title": "Si decido quedarme ",
+    "description": "Mia es una joven de 17 años que parece tenerlo todo en la vida: una famila adorable, un novio que la quiere, una amiga incondicional y una prometedora carrera musical, debido a su talento natural para tocar el chelo. Sin embargo, todo eso cambia en una fracción de segundo, cuando ella y su familia sufren un terrible accidente de coche.",
+    "images": [
+      {
+        "mainImg": "https://www.themoviedb.org/t/p/original/zsWeIZ5Z3W2xAEr4oEj25jC9vMC.jpg",
+        "secondaryImg": "https://www.themoviedb.org/t/p/original/xxmf2JWcBt7E8nBrIu0JXK3CX4.jpg",
+        "verticalMinImg": "https://www.themoviedb.org/t/p/original/o7c9uf08g6n92S1N3Hcgx65XP6T.jpg",
+        "horizontalMinImg": "https://www.themoviedb.org/t/p/original/56jkKfItg1yjRu1OJwStxE1mqFA.jpg",
+        "bigVerticalImg": "https://www.themoviedb.org/t/p/original/qWBqxypeKZJY6oIcMdEoJWVnIZF.jpg"
+      }
+    ],
+    "type": "pelicula",
+    "category": "Drama",
+    "franchise": [
+      {
+        "isFranchise": false,
+        "franchiseName": null
+      }
+    ],
+    "duration": [
+      {
+        "timeDuration": 106,
+        "seasonDuration": null
+      }
+    ],
+    "year": 2014,
+    "director": "R.J. Cutler",
+    "cast": [
+      "Chloë Grace Moretz, Jamie Blackley, Liana Liberato, Mireille Enos"
+    ],
+    "classification": "+13",
+    "videos": [
+      {
+        "mainVideoUrl": "https://www.youtube.com/watch?v=B0chmofGqpk&ab_channel=WarnerBros.PicturesEspa%C3%B1a",
+        "secondaryVideoUrl": "",
+        "additionalVideoUrl": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6461953dbdbb0a0edf67e5f8"
+    },
+    "title": "Amor de Medianoche",
+    "description": "Una adolescente que moriría si se expusiera a la luz vive un romance de verano con el chico del que lleva años enamorada. A medida que su relación se afianza, ella busca maneras de ocultarle la enfermedad que padece.",
+    "images": [
+      {
+        "mainImg": "https://www.themoviedb.org/t/p/original/fvLU8NnvcRxPLPCsO8WXS5b04t4.jpg",
+        "secondaryImg": "https://www.themoviedb.org/t/p/original/9T8sj5io4SGCBTHsk5H8LGcfKVe.jpg",
+        "verticalMinImg": "https://www.themoviedb.org/t/p/original/nmTtZSO8BPDB7cPYxbxVldOR6JX.jpg",
+        "horizontalMinImg": "https://www.themoviedb.org/t/p/original/woazkE0WHsH0VAHJabhgTmsOBnq.jpg",
+        "bigVerticalImg": "https://www.themoviedb.org/t/p/original/rKWg1SnU3yLyph00ZTKtTQsMJrU.jpg"
+      }
+    ],
+    "type": "pelicula",
+    "category": "Drama",
+    "franchise": [
+      {
+        "isFranchise": false,
+        "franchiseName": null
+      }
+    ],
+    "duration": [
+      {
+        "timeDuration": 91,
+        "seasonDuration": null
+      }
+    ],
+    "year": 2018,
+    "director": "Scott Speer",
+    "cast": [
+      "Bella Thorne, Patrick Schwarzenegger, Rob Riggle, Quinn Shephard, Ken Tremblett"
+    ],
+    "classification": "+15",
+    "videos": [
+      {
+        "mainVideoUrl": "",
+        "secondaryVideoUrl": "",
+        "additionalVideoUrl": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6461953dbdbb0a0edf67e5f9"
+    },
+    "title": "La chica del tren",
+    "description": "Rachel (Emily Blunt) es una mujer devastada por su reciente divorcio que dedica cada mañana de camino a su trabajo a fantasear sobre la vida de una pareja aparentemente perfecta que vive en una casa por la que su tren pasa cada día. Pero una mañana Rachel es testigo desde la ventana del tren de un impactante suceso y se ve involucrada en el misterio que ella misma revela... Adaptación del best seller homónimo de Paula Hawkins",
+    "images": [
+      {
+        "mainImg": "https://www.themoviedb.org/t/p/original/mGtyNQ7Ioyv1AZ5aSOpL0Jlqwxx.jpg",
+        "secondaryImg": "https://www.themoviedb.org/t/p/original/9f6B9eJAznSTPZl9qvwnD9yXkKT.jpg",
+        "verticalMinImg": "",
+        "horizontalMinImg": "https://www.themoviedb.org/t/p/original/9f6B9eJAznSTPZl9qvwnD9yXkKT.jpg",
+        "bigVerticalImg": "https://www.themoviedb.org/t/p/original/4SO6pbGJTpM9YYovYxFLY3MXqZn.jpg"
+      }
+    ],
+    "type": "pelicula",
+    "category": "Drama",
+    "franchise": [
+      {
+        "isFranchise": false,
+        "franchiseName": null
+      }
+    ],
+    "duration": [
+      {
+        "timeDuration": 112,
+        "seasonDuration": null
+      }
+    ],
+    "year": 2016,
+    "director": "Tate Taylor",
+    "cast": [
+      "Emily Blunt, Rebecca Ferguson, Haley Bennett, Justin Theroux, Luke Evans"
+    ],
+    "classification": "+18",
+    "videos": [
+      {
+        "mainVideoUrl": "https://www.youtube.com/watch?v=J3_VRyPqbwc&ab_channel=Cinemex",
+        "secondaryVideoUrl": "https://www.youtube.com/watch?v=3KU0brsZ76o&ab_channel=UIPArgentina",
+        "additionalVideoUrl": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6461953dbdbb0a0edf67e5fa"
+    },
+    "title": "Chicas Perdidas",
+    "description": "Cuando la hija de Mari Gilbert desaparece, la inacción policial lleva a que sea ella quien comience una investigación particular en la isla de Long Island en la que Shannan fue vista por última vez. Su búsqueda saca a la luz más de una docena de trabajadoras sexuales que han sido asesinadas.",
+    "images": [
+      {
+        "mainImg": "https://www.themoviedb.org/t/p/original/phnq8GaG1rjivBpPQuoAIARROC.jpg",
+        "secondaryImg": "https://www.themoviedb.org/t/p/original/ziJ4bBiJYqKv5aGnxvWxpp6bTms.jpg",
+        "verticalMinImg": "",
+        "horizontalMinImg": "https://www.themoviedb.org/t/p/original/vwkJChYb9dBcuds98Se4oHIcbnw.jpg",
+        "bigVerticalImg": ""
+      }
+    ],
+    "type": "pelicula",
+    "category": "Drama",
+    "franchise": [
+      {
+        "isFranchise": false,
+        "franchiseName": null
+      }
+    ],
+    "duration": [
+      {
+        "timeDuration": 95,
+        "seasonDuration": null
+      }
+    ],
+    "year": 2020,
+    "director": "Liz Garbus",
+    "cast": [
+      "Amy Ryan, Thomasin McKenzie, Lola Kirke, Gabriel Byrne, Oona Laurence"
+    ],
+    "classification": "+18",
+    "videos": [
+      {
+        "mainVideoUrl": "https://www.youtube.com/watch?v=AF2qUFweYCs&ab_channel=NetflixLatinoam%C3%A9rica",
+        "secondaryVideoUrl": "",
+        "additionalVideoUrl": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6461953dbdbb0a0edf67e5fb"
+    },
+    "title": "Imperdonable",
+    "description": "Tras salir de prisión después de cumplir condena por un crimen violento, Ruth Slater (Bullock) se reinserta en una sociedad que se niega a perdonar su pasado. Tras enfrentarse a las duras opiniones del lugar que una vez fue su hogar, su única esperanza de redención es encontrar a su hermana pequeña a la que tuvo que dejar detrás.",
+    "images": [
+      {
+        "mainImg": "https://www.themoviedb.org/t/p/original/qpZUU24mIn1IQGwovqEUT0AjGj2.jpg",
+        "secondaryImg": "https://www.themoviedb.org/t/p/original/kbOB9DGl8qwhDRcXOmXfmcmadeD.jpg",
+        "verticalMinImg": "https://www.themoviedb.org/t/p/original/utT4g1reTFC5aOwLI7wVXbtECx4.jpg",
+        "horizontalMinImg": "https://www.themoviedb.org/t/p/original/5EfkVwmHTS6faqYxm3bkSGQ9AD4.jpg",
+        "bigVerticalImg": "https://www.themoviedb.org/t/p/original/CKjFs275LRgd2h8qDAE5nSUfnE.jpg"
+      }
+    ],
+    "type": "pelicula",
+    "category": "Drama",
+    "franchise": [
+      {
+        "isFranchise": false,
+        "franchiseName": null
+      }
+    ],
+    "duration": [
+      {
+        "timeDuration": 112,
+        "seasonDuration": null
+      }
+    ],
+    "year": 2021,
+    "director": "Nora Fingscheidt",
+    "cast": [
+      "Sandra Bullock, Viola Davis, Vincent D'Onofrio, Jon Bernthal, Richard Thomas"
+    ],
+    "classification": "+18",
+    "videos": [
+      {
+        "mainVideoUrl": "https://www.youtube.com/watch?v=MiFEZu7pQo0&ab_channel=NetflixLatinoam%C3%A9rica",
+        "secondaryVideoUrl": "",
+        "additionalVideoUrl": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "646195e3bdbb0a0edf67e5fc"
+    },
+    "title": "RoboCop",
+    "description": "Robocop es una película de ciencia ficción y acción que se centra en un oficial de policía llamado Alex Murphy, que es brutalmente asesinado en el cumplimiento de su deber. Después de su muerte, su cuerpo es utilizado por una corporación para crear un cyborg llamado Robocop, que es diseñado para luchar contra el crimen en la ciudad de Detroit. Sin embargo, a medida que Robocop comienza a descubrir más sobre su pasado y su verdadera identidad, se enfrenta a una crisis de conciencia sobre su verdadera naturaleza y su lealtad a la empresa que lo creó.",
+    "images": [
+      {
+        "mainImg": "https://images.justwatch.com/backdrop/225486103/s640",
+        "secondaryImg": "https://m.media-amazon.com/images/I/510keQATmdL._AC_UF894,1000_QL80_.jpg",
+        "verticalMinImg": "https://cdn.shopify.com/s/files/1/1416/8662/products/robocop_1987_linen_original_film_art_1200x.jpg?v=1600173603",
+        "horizontalMinImg": "https://www.lascosasquenoshacenfelices.com/wp-content/uploads/2020/08/1-2.jpg",
+        "bigVerticalImg": "https://i.pinimg.com/736x/99/15/68/991568b45ea78c74f9c090c13b4d4c5e.jpg"
+      }
+    ],
+    "type": "Película",
+    "category": "Acción y ciencia ficción",
+    "franchise": [
+      {
+        "isFranchise": true,
+        "FranchiseName": "RoboCop"
+      }
+    ],
+    "duration": [
+      {
+        "timeDuration": 102,
+        "seasonDuration": null
+      }
+    ],
+    "year": 1987,
+    "director": "Paul Verhoeven",
+    "cast": [
+      "Peter Weller",
+      "Nancy Allen",
+      "Dan O'Herlihy",
+      "Ronny Cox"
+    ],
+    "classification": "No apto para menores de 14",
+    "videos": [
+      {
+        "mainVideoUrl": "https://www.youtube.com/watch?v=IqvRDhW-XVA",
+        "secondaryVideoUrl": "https://www.youtube.com/watch?v=w0p7VQojNIQ",
+        "additionalVideoUrl": "https://www.youtube.com/watch?v=y0wKesY9-J0"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "646195e3bdbb0a0edf67e5fd"
+    },
+    "title": "Matrix",
+    "description": "Película de ciencia ficción y acción que gira en torno a un hacker llamado Neo que descubre la verdad sobre su realidad aparentemente normal, que es una simulación creada por máquinas para mantener a la humanidad subyugada.",
+    "images": [
+      {
+        "mainImg": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/09/best-matrix-action-scenes.jpg",
+        "secondaryImg": "https://cms.dmpcdn.com/dara/2020/10/07/00097cc0-085b-11eb-bc4c-cddced3f7eaa_640.jpg",
+        "verticalMinImg": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "horizontalMinImg": "https://hbomax-images.warnermediacdn.com/images/GXdu2VgPdq5uAuwEAADak/tileburnedin?size=1280x720&partner=hbomaxcom&v=e43b3f73718222a77b8e6b6550957c6e&host=art-gallery.api.hbo.com&language=es-419&w=1280",
+        "bigVerticalImg": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+      }
+    ],
+    "type": "Película",
+    "category": "Acción y ciencia ficción",
+    "franchise": [
+      {
+        "isFranchise": true,
+        "FranchiseName": "Matrix"
+      }
+    ],
+    "duration": [
+      {
+        "timeDuration": 136,
+        "seasonDuration": null
+      }
+    ],
+    "year": 1999,
+    "director": "Lana y Lilly Wachowski",
+    "cast": [
+      "Keanu Reeves",
+      "Carrie-Anne Moss",
+      "Laurence Fishburne",
+      "Hugo Weaving"
+    ],
+    "classification": "No apto para menores de 14",
+    "videos": [
+      {
+        "mainVideoUrl": "https://www.youtube.com/watch?v=EweuTOz7g-g",
+        "secondaryVideoUrl": "https://www.youtube.com/watch?v=mrMJGEduaHI",
+        "additionalVideoUrl": "https://www.youtube.com/watch?v=cvEKvJGTzeU"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "646195e3bdbb0a0edf67e5fe"
+    },
+    "title": "Terminator 2: Judgment Day",
+    "description": "Terminator 2 es una película de ciencia ficción y acción dirigida por James Cameron. La trama sigue a un cyborg T-800 enviado desde el futuro para proteger a John Connor, el futuro líder de la resistencia humana, mientras que un modelo avanzado T-1000 es enviado para matarlo.",
+    "images": [
+      {
+        "mainImg": "https://image.tmdb.org/t/p/original/v1qML4ISWztYzxAdkHZpF2mBGOa.jpg",
+        "secondaryImg": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/c9eefbe5b747faa29c3c2a56049744795eb4418dc0f106dde1481054feaeb22b._RI_SX720_FMjpg_.jpg",
+        "verticalMinImg": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/2662/2662129_so.jpg",
+        "horizontalMinImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQWbFHYH5D5uCU7IP7dd1oZsndWdIN80k3YsheJEQCojMpjscpTXuvw-vujwFE7cO4f-c&usqp=CAU",
+        "bigVerticalImg": "https://m.media-amazon.com/images/I/71Gpgjcz7pL._AC_SL1500_.jpg"
+      }
+    ],
+    "type": "Película",
+    "category": "Acción y ciencia ficción",
+    "franchise": [
+      {
+        "isFranchise": true,
+        "FranchiseName": "Terminator"
+      }
+    ],
+    "duration": [
+      {
+        "timeDuration": 137,
+        "seasonDuration": null
+      }
+    ],
+    "year": 1991,
+    "director": "James Cameron",
+    "cast": [
+      "Arnold Schwarzenegger",
+      "Linda Hamilton",
+      "Edward Furlong",
+      "Robert Patrick"
+    ],
+    "classification": "No apto para menores de 14",
+    "videos": [
+      {
+        "mainVideoUrl": "https://www.youtube.com/watch?v=GuEPQcblfB8",
+        "secondaryVideoUrl": "https://www.youtube.com/watch?v=DHKxoARmjLU",
+        "additionalVideoUrl": "https://www.youtube.com/watch?v=YtRIzgIM3Go"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "646195e3bdbb0a0edf67e5ff"
+    },
+    "title": "En busca del arca perdida",
+    "description": "Indiana Jones, un arqueólogo aventurero, se embarca en una peligrosa misión para encontrar el Arca de la Alianza, un artefacto bíblico que se cree que tiene poderes sobrenaturales y ha sido buscado durante siglos por diferentes culturas y gobiernos.",
+    "images": [
+      {
+        "mainImg": "https://i.blogs.es/dd0469/busca-arca-perdida/1366_2000.jpeg",
+        "secondaryImg": "https://cdn.sincroguia.tv/uploads/programs/e/n/-/en-busca-del-arca-perdida-6660_SPA-78.jpg",
+        "verticalMinImg": "https://www.themoviedb.org/t/p/original/dWCNyjKbbcYrsk6dm8SktjVlPtd.jpg",
+        "horizontalMinImg": "https://images.20minutos.es/files/gallery_desktop_default_content/uploads/images/2021/06/14/en-busca-del-arca-perdida-1981.jpeg",
+        "bigVerticalImg": "https://i.pinimg.com/originals/b8/7a/f9/b87af9872e8125fa97cb5317680e368e.jpg"
+      }
+    ],
+    "type": "Película",
+    "category": "Acción y ciencia ficción",
+    "franchise": [
+      {
+        "isFranchise": true,
+        "FranchiseName": "Indiana Jones"
+      }
+    ],
+    "duration": [
+      {
+        "timeDuration": 115,
+        "seasonDuration": null
+      }
+    ],
+    "year": 1981,
+    "director": "Steven Spielberg",
+    "cast": [
+      "Harrison Ford",
+      "Karen Allen",
+      "Paul Freeman",
+      "Ronald Lacey"
+    ],
+    "classification": "No apto para menores de 14",
+    "videos": [
+      {
+        "mainVideoUrl": "https://www.youtube.com/watch?v=htHMMjfefYE",
+        "secondaryVideoUrl": "https://www.youtube.com/watch?v=ceMf9xtDA6U",
+        "additionalVideoUrl": "https://www.youtube.com/watch?v=EYp2bag2HpE"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "646195e3bdbb0a0edf67e600"
+    },
+    "title": "Rambo: Acorralado",
+    "description": "Película de acción protagonizada por Sylvester Stallone como John Rambo, un exsoldado estadounidense que lucha contra la brutalidad de la policía local y los prejuicios en un pequeño pueblo del noroeste del Pacífico.",
+    "images": [
+      {
+        "mainImg": "https://www.manners.nl/wp-content/uploads/2019/09/5c62aa5c15e9f9701214147b.jpg",
+        "secondaryImg": "https://www.hollywoodreporter.com/wp-content/uploads/2018/11/rambo-_first_blood_still.jpg?w=1296",
+        "verticalMinImg": "https://m.media-amazon.com/images/I/81rjUPgRRjS._AC_SY606_.jpg",
+        "horizontalMinImg": "https://www.vintagemovieposters.co.uk/wp-content/uploads/2015/07/firstbloodquadlarge1.jpg",
+        "bigVerticalImg": "https://m.media-amazon.com/images/M/MV5BZWFkY2I1ZDAtNmZhNS00NjVlLWJiMGQtMGQ1ZmM0ZDA5ODg5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+      }
+    ],
+    "type": "Película",
+    "category": "Acción y ciencia ficción",
+    "franchise": [
+      {
+        "isFranchise": true,
+        "FranchiseName": "Rambo"
+      }
+    ],
+    "duration": [
+      {
+        "timeDuration": 93,
+        "seasonDuration": null
+      }
+    ],
+    "year": 1982,
+    "director": "Ted Kotcheff",
+    "cast": [
+      "Sylvester Stallone",
+      "Richard Crenna",
+      "Brian Dennehy",
+      "David Caruso",
+      "Jack Starrett",
+      "Michael Talbott",
+      "Chris Mulkey"
+    ],
+    "classification": "No apto para menores de 14",
+    "videos": [
+      {
+        "mainVideoUrl": "https://www.youtube.com/watch?v=d2anWtDXeR8",
+        "secondaryVideoUrl": "https://www.youtube.com/watch?v=IAqLKlxY3Eo",
+        "additionalVideoUrl": "https://www.youtube.com/watch?v=l1j3zvAecLo"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "646195e3bdbb0a0edf67e601"
+    },
+    "title": "Duro de matar",
+    "description": "Un policía de Nueva York intenta salvar a su esposa y a otros rehenes durante un robo en un rascacielos.",
+    "images": [
+      {
+        "mainImg": "https://3.bp.blogspot.com/_GoEEN3W7qrU/TRoGq2p-qXI/AAAAAAAADGo/53fHttmpRjM/s1600/2.png",
+        "secondaryImg": "https://www.rionegro.com.ar/wp-content/uploads/2022/04/maxresdefault.jpg?w=1200&h=630&crop=1",
+        "verticalMinImg": "https://i.ebayimg.com/images/g/8HYAAOSwsJJiQS9P/s-l1600.jpg",
+        "horizontalMinImg": "https://mcqshield.org/wp-content/uploads/2022/12/DH1_800X400_2.png",
+        "bigVerticalImg": "https://i.pinimg.com/originals/6d/e5/31/6de531a097aa27729fb21b6d00cf29b1.jpg"
+      }
+    ],
+    "type": "Película",
+    "category": "Acción y ciencia ficción",
+    "franchise": [
+      {
+        "isFranchise": true,
+        "FranchiseName": "Duro de matar"
+      }
+    ],
+    "duration": [
+      {
+        "timeDuration": 132,
+        "seasonDuration": null
+      }
+    ],
+    "year": 1988,
+    "director": "John McTiernan",
+    "cast": [
+      "Bruce Willis",
+      "Alan Rickman",
+      "Bonnie Bedelia",
+      "Reginald VelJohnson"
+    ],
+    "classification": "No apto para menores de 14",
+    "videos": [
+      {
+        "urlVideoPrincipal": "https://www.youtube.com/watch?v=Cv0WHvWjtUQ",
+        "urlVideoSecundario": "https://www.youtube.com/watch?v=jdp_BqAqkxE",
+        "urlVideoAdd": "https://www.youtube.com/watch?v=bfG5ensbrf8<                                                                          "
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "646195e3bdbb0a0edf67e602"
+    },
+    "title": "Los Juegos del Hambre",
+    "description": "Una película de ciencia ficción y acción, basada en el libro del mismo nombre de Suzanne Collins, en la que los distritos de Panem se ven obligados a enviar a dos jóvenes a luchar en una batalla a muerte en la arena, transmitida en vivo para el entretenimiento del Capitolio.",
+    "images": [
+      {
+        "mainImg": "https://occ-0-2164-395.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABZgwIVrtZI5GdXlFpX9E1EVFVuf64CZdaWWzn4iF2cYlEmmDrP88mex2ZaM1KTilf-3WlUIzd4JTV0xYHh_n9xfmA4dB1-KoN8fi.jpg?r=456",
+        "secondaryImg": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/hc_1440x810/public/media/image/2021/09/juegos-hambre-2487027.jpg?itok=Qxvm40dN",
+        "verticalMinImg": "https://pics.filmaffinity.com/Los_juegos_del_hambre-634460284-large.jpg",
+        "imgMinHorizontal": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMvsclm53zsH_bpVgE-uab9AzFqU0quiWWUQ&usqp=CAU",
+        "bigVerticalImg": "data:image/jpeg;base64,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"
+      }
+    ],
+    "type": "Película",
+    "category": "Acción y ciencia ficción",
+    "franchise": [
+      {
+        "isFranchise": true,
+        "FranchiseName": "Los Juegos del Hambre"
+      }
+    ],
+    "duration": [
+      {
+        "timeDuration": 142,
+        "seasonDuration": null
+      }
+    ],
+    "year": 2012,
+    "director": "Gary Ross",
+    "cast": [
+      "Jennifer Lawrence",
+      "Josh Hutcherson",
+      "Liam Hemsworth"
+    ],
+    "classification": "No apto para menores de 14",
+    "videos": [
+      {
+        "urlVideoPrincipal": "https://www.youtube.com/watch?v=_8Ktfs2mBDY",
+        "urlVideoSecundario": "https://www.youtube.com/watch?v=PbA63a7H0bo",
+        "urlVideoAdd": "https://www.youtube.com/watch?v=OicjiDeQ000"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "646195e3bdbb0a0edf67e603"
+    },
+    "title": "Gladiator 1",
+    "description": "Un general romano es traicionado por el hijo del emperador y se convierte en un esclavo que busca venganza en la arena del Coliseo",
+    "images": [
+      {
+        "mainImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/6269298B88E2F4BEE6FA677770560145D05BB458CEEEE4A2203B3A82367D4852/scale?width=1200&aspectRatio=1.78&format=jpeg",
+        "secondaryImg": "https://img2.rtve.es/v/2528614?w=1600&preview=1398358595873.jpg",
+        "verticalMinImg": "https://m.media-amazon.com/images/I/91ATO4sRPVL._SL1500_.jpg",
+        "imgMinHorizontal": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX-PCl81iZoCfTBxBFb3ZiR0ln1Tux3uYbEVyhBZdQ-tGaiB14LhkQElP7RYWjYaRqoGg&usqp=CAU",
+        "bigVerticalImg": "https://pics.filmaffinity.com/Gladiator-368149580-large.jpg"
+      }
+    ],
+    "type": "Película",
+    "category": "Acción y ciencia ficción",
+    "franchise": [
+      {
+        "isFranchise": false,
+        "FranchiseName": ""
+      }
+    ],
+    "duration": [
+      {
+        "timeDuration": 155,
+        "seasonDuration": null
+      }
+    ],
+    "year": 2000,
+    "director": "Ridley Scott",
+    "cast": [
+      "Russell Crowe",
+      "Joaquin Phoenix",
+      "Connie Nielsen",
+      "Oliver Reed",
+      "Derek Jacobi"
+    ],
+    "classification": "No apto para menores de 14",
+    "videos": [
+      {
+        "urlVideoPrincipal": "https://www.youtube.com/watch?v=uvbavW31adA",
+        "urlVideoSecundario": "https://www.youtube.com/watch?v=P5ieIbInFpg",
+        "urlVideoAdd": "https://www.youtube.com/watch?v=69NXgx23XD4"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "646195e3bdbb0a0edf67e604"
+    },
+    "title": "Avengers: Endgame",
+    "description": "Los Vengadores restantes deben encontrar una manera de recuperar a sus aliados para un enfrentamiento épico con Thanos, el malvado señor del tiempo que diezmó el planeta y la mitad del universo.",
+    "images": [
+      {
+        "mainImg": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2019/03/hipertextual-nuevo-spoiler-avengers-endgame-adelanta-batalla-monumental-2019674741-scaled.jpg?fit=1200%2C675&quality=50&strip=all&ssl=1",
+        "secondaryImg": "https://as01.epimg.net/meristation/images/2019/04/27/album/1556350974_938607_1556351317_album_grande.jpg",
+        "verticalMinImg": "https://e1.pxfuel.com/desktop-wallpaper/887/978/desktop-wallpaper-avengers-endgame-poster-marvel-posters.jpg",
+        "horizontalMinImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/863E75A035911DBA10F8D7EE1E433A12A1BF4915670B66597AC31C585A291942/scale?width=1200&aspectRatio=1.78&format=jpeg",
+        "bigVerticalImg": "https://images.thedirect.com/media/photos/endgameposter2.jpg"
+      }
+    ],
+    "type": "Película",
+    "category": "Acción y ciencia ficción",
+    "franchise": [
+      {
+        "isFranchise": true,
+        "FranchiseName": "Universo Cinematográfico de Marvel"
+      }
+    ],
+    "duration": [
+      {
+        "timeDuration": 181,
+        "seasonDuration": null
+      }
+    ],
+    "year": 2019,
+    "director": "Hermanos Russo",
+    "cast": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Mark Ruffalo",
+      "Chris Hemsworth",
+      "Scarlett Johansson",
+      "Jeremy Renner",
+      "Don Cheadle",
+      "Paul Rudd",
+      "Brie Larson",
+      "Karen Gillan",
+      "Danai Gurira",
+      "Benedict Wong",
+      "Jon Favreau",
+      "Bradley Cooper",
+      "Gwyneth Paltrow",
+      "Josh Brolin"
+    ],
+    "classification": "No apto para menores de 14",
+    "videos": [
+      {
+        "urlVideoPrincipal": "https://www.youtube.com/watch?v=znk2OICHbjY",
+        "urlVideoSecundario": "https://www.youtube.com/watch?v=KCSNFZKbhZE",
+        "urlVideoAdd": "https://www.youtube.com/watch?v=9FUitzz7BF8"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "646195e3bdbb0a0edf67e605"
+    },
+    "title": "Misión Imposible",
+    "description": "Ethan Hunt es un agente de la IMF (Impossible Missions Force) que se ve envuelto en una peligrosa misión para recuperar una lista de agentes encubiertos que ha sido robada por un traidor en la organización.",
+    "images": [
+      {
+        "mainImg": "https://http2.mlstatic.com/D_NQ_NP_812682-MCO31235121734_062019-O.jpg",
+        "secondaryImg": "hhttps://www.eluniverso.com/resizer/sGp7j_Re8O2R3WUA1bACLwLGAgQ=/1186x670/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/YXIYQ4UF2ZCUFAXIYSW6BG6Y2E.jpg",
+        "verticalMinImg": "https://m.media-amazon.com/images/M/MV5BMTc3NjI2MjU0Nl5BMl5BanBnXkFtZTgwNDk3ODYxMTE@._V1_.jpg",
+        "horizontalMinImg": "https://1.bp.blogspot.com/-6fRLIgv_fCg/WlaMaBAs04I/AAAAAAAAH6k/Bq_4vlDyhSQwa9oI97bH9aLdLcTYqiSlgCLcBGAs/s400/Misi%25C3%25B3n%2Bimposible%2B01.jpg",
+        "bigVerticalImg": "https://i.ebayimg.com/images/g/xPsAAOSwhtxj-dbG/s-l1600.jpg"
+      }
+    ],
+    "type": "Película",
+    "category": "Acción y ciencia ficción",
+    "franchise": [
+      {
+        "isFranchise": true,
+        "FranchiseName": "Misión Imposible"
+      }
+    ],
+    "duration": [
+      {
+        "timeDuration": 110,
+        "seasonDuration": null
+      }
+    ],
+    "year": 1996,
+    "director": "Brian De Palma",
+    "cast": [
+      "Tom Cruise",
+      "Jon Voight",
+      "Emmanuelle Béart",
+      "Jean Reno",
+      "Ving Rhames"
+    ],
+    "classification": "No apto para menores de 14",
+    "videos": [
+      {
+        "urlVideoPrincipal": "https://www.youtube.com/watch?v=Ohws8y572KE",
+        "urlVideoSecundario": "https://www.youtube.com/watch?v=ar0xLps7WSY",
+        "urlVideoAdd": "https://www.youtube.com/watch?v=58CUknkxOOQ"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "646195e3bdbb0a0edf67e606"
+    },
+    "title": "The Queen's Gambit",
+    "description": "Serie dramática sobre una joven prodigio del ajedrez en los años 60.",
+    "images": [
+      {
+        "mainImg": "https://www.jesuithighschool.org/sites/main/files/imagecache/lightbox/main-images/sl__queens_gambit__bradenacosta24.jpg",
+        "secondaryImg": "https://www.hollywoodreporter.com/wp-content/uploads/2022/09/Queens-Gambit-Still-Handshake-Netflix-Publicity-H-2022.jpg?w=1296",
+        "verticalMinImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2BH9pKN1XzXh0rL6R5lks2xu4cOjy90s7sL6P7XdMQIg5qA0ut1vW7S4PnoFLPqVfy0w&usqp=CAU",
+        "horizontalMinImg": "https://mir-s3-cdn-cf.behance.net/projects/404/320ec1108026281.Y3JvcCwzMTcwLDI0ODAsMTY0LDA.jpg",
+        "bigVerticalImg": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1617242215i/57594136.jpg"
+      }
+    ],
+    "type": "Serie",
+    "category": "Drama",
+    "franchise": [
+      {
+        "isFranchise": false,
+        "franchiseName": null
+      }
+    ],
+    "duration": [
+      {
+        "timeDuration": 420,
+        "seasonDuration": null
+      }
+    ],
+    "year": 2020,
+    "director": "Scott Frank",
+    "cast": [
+      "Anya Taylor-Joy",
+      "Bill Camp",
+      "Moses Ingram"
+    ],
+    "classification": "No apto para menores de 14",
+    "videos": [
+      {
+        "mainVideoUrl": "https://www.youtube.com/watch?v=oZn3qSgmLqI",
+        "secondaryVideoUrl": "https://www.youtube.com/watch?v=YzeRik5yEBY",
+        "additionalVideoUrl": "https://www.youtube.com/watch?v=LzDhpEInMIg"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "646195e3bdbb0a0edf67e607"
+    },
+    "title": "The Social Dilemma",
+    "description": "Documental sobre los impactos negativos de las redes sociales en la sociedad.",
+    "images": [
+      {
+        "mainImg": "https://www.johnhartrealestate.com/blog/wp-content/uploads/2020/09/TheSocialDilemma_JH-BlogBanner.jpg",
+        "secondaryImg": "https://occ-0-2164-1567.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABYrjHYeyw_2sB20P4WWmK-4jVhx35h7R705VVedO1M42O7BCCDmmJlJ5Ot0XGyQSzCM9sGhqAnhWFKs0ZFBXFDfhsFAm5GFOs8fl.jpg?r=d0a",
+        "verticalMinImg": "https://e00-telva.uecdn.es/assets/multimedia/imagenes/2020/09/23/16008529373493.jpg",
+        "horizontalMinImg": "https://occ.a.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABa6xunmQtNXxRz3beRkEjyhWGjDWtLREoRGEi8n4aAe5kg_KKDbZ58BUwLDj3FX80kb1fb3oP9Or7jKNDIHcd7esJ5x2Az6qIyYxIiQhB60R2I1onFt0NUSQsrSWJLQRw8lGnA.jpg?r=1aa",
+        "bigVerticalImg": "https://pics.filmaffinity.com/El_dilema_de_las_redes_sociales-384147385-large.jpg"
+      }
+    ],
+    "type": "Documental",
+    "category": "Documental",
+    "franchise": [
+      {
+        "isFranchise": false
+      }
+    ],
+    "duration": [
+      {
+        "timeDuration": 94
+      }
+    ],
+    "year": 2020,
+    "director": "Jeff Orlowski",
+    "cast": [
+      "Tristan Harris",
+      "Aza Raskin",
+      "Justin Rosenstein"
+    ],
+    "classification": "No apto para menores de 14",
+    "videos": [
+      {
+        "mainVideoUrl": "https://www.youtube.com/watch?v=uaaC57tcci0",
+        "secondaryVideoUrl": "https://www.youtube.com/watch?v=3FmX8SBIeco",
+        "additionalVideoUrl": "https://www.youtube.com/watch?v=3FmX8SBIeco"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "646195e3bdbb0a0edf67e608"
+    },
+    "title": "Peppa Pig",
+    "description": "Serie animada infantil sobre las aventuras de una cerdita llamada Peppa y su familia y amigos.",
+    "images": [
+      {
+        "mainImg": "https://myhotposters.com/cdn/shop/products/mL0273_1024x1024.jpg?v=1571444810",
+        "secondaryImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS-G02vGEmnDk5Ipj4d6EyCZ9m5Q8jAk96QdHAyoP2X7pG7-25p4yYFLUx-oKFNtIvdiY&usqp=CAU",
+        "verticalMinImg": "https://static.wikia.nocookie.net/doblaje/images/c/c2/Peppa1.jpg/revision/latest?cb=20210209225731&path-prefix=es",
+        "horizontalMinImg": "https://myhotposters.com/cdn/shop/products/mL0273_1024x1024.jpg?v=1571444810",
+        "bigVerticalImg": "https://static.wikia.nocookie.net/doblaje/images/c/c2/Peppa1.jpg/revision/latest?cb=20210209225731&path-prefix=es"
+      }
+    ],
+    "type": "Serie",
+    "category": "Infantil",
+    "franchise": [
+      {
+        "isFranchise": true,
+        "franchiseName": "Peppa Pig"
+      }
+    ],
+    "duration": [
+      {
+        "timeDuration": 5,
+        "seasonDuration": 7
+      }
+    ],
+    "year": 2004,
+    "director": "Neville Astley, Mark Baker",
+    "cast": [
+      "Morwenna Banks",
+      "Richard Ridings",
+      "Oliver May",
+      "Lily Snowden-Fine"
+    ],
+    "classification": "Apto para menores de 14",
+    "videos": [
+      {
+        "mainVideoUrl": "https://www.youtube.com/watch?v=bwtTZVUmV94",
+        "secondaryVideoUrl": "https://www.youtube.com/watch?v=cIQO9ED5ezc",
+        "additionalVideoUrl": "https://www.youtube.com/watch?v=bwtTZVUmV94"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "646195e3bdbb0a0edf67e609"
+    },
+    "title": "El Juego del Calamar",
+    "description": "Reality show surcoreano en el que los concursantes compiten en juegos infantiles por un premio en efectivo.",
+    "images": [
+      {
+        "mainImg": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/el-juego-del-calamar-serie-1632736737.jpeg",
+        "secondaryImg": "https://imagenes.diariodenavarra.es/files/image_477_265/uploads/2021/10/11/61640fdb0de9f.jpeg",
+        "verticalMinImg": "https://static.wikia.nocookie.net/doblaje/images/b/b9/El_juego_del_calamar.jpg/revision/latest?cb=20211011051623&path-prefix=es",
+        "horizontalMinImg": "https://elcomercio.pe/resizer/Uer8L2Kvg4Z57DYeLi73Y8EIoCM=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/CVGHWKGQMVGALLQHEAUGOLHJH4.jpeg",
+        "bigVerticalImg": "https://pics.filmaffinity.com/El_juego_del_calamar_Serie_de_TV-688981365-large.jpg"
+      }
+    ],
+    "type": "Serie",
+    "category": "Acción y ciencia ficción",
+    "franchise": [
+      {
+        "isFranchise": false
+      }
+    ],
+    "duration": [
+      {
+        "timeDuration": 60,
+        "seasonDuration": 1
+      }
+    ],
+    "year": 2021,
+    "director": "Hwang Dong - hyuk",
+    "cast": [
+      "Jung Jae - kwang",
+      "Hwang Dong - kyu",
+      "Park Sang - hoon"
+    ],
+    "classification": "No apto para menores de 14",
+    "videos": [
+      {
+        "mainVideoUrl": "https://www.youtube.com/watch?v=Mj4_xG5NXeo",
+        "secondaryVideoUrl": "https://www.youtube.com/watch?v=lLmdkg3yVA0",
+        "additionalVideoUrl": "https://www.youtube.com/watch?v=lLmdkg3yVA0"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "646195e3bdbb0a0edf67e60a"
+    },
+    "title": "The Grand Budapest Hotel",
+    "description": "Un conserje en un famoso hotel europeo, junto a su joven aprendiz, se ven envueltos en un robo y una búsqueda de un valioso cuadro renacentista.",
+    "images": [
+      {
+        "mainImg": "https://sm.ign.com/ign_pt/screenshot/default/grand-budapest-hotel_cp94.jpg",
+        "secondaryImg": "https://mypresquile.com/wp-content/uploads/2022/11/PROJECTION-Away-Hostel.jpg",
+        "verticalMinImg": "https://i.pinimg.com/originals/33/a2/3e/33a23efac95a568791d39c7f861ba571.jpg",
+        "horizontalMinImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPRCKciT0ZqDNox_ybwQuSNOnu2eaLkeYGqg&usqp=CAU",
+        "bigVerticalImg": "https://pyxis.nymag.com/v1/imgs/a5c/11a/0e029cc07c44fbab868ebaa6a7b1b33e56-18-budapestposter.w710.jpg"
+      }
+    ],
+    "type": "Película",
+    "category": "Comedia",
+    "franchise": [
+      {
+        "isFranchise": false,
+        "franchiseName": null
+      }
+    ],
+    "duration": [
+      {
+        "timeDuration": 99,
+        "seasonDuration": null
+      }
+    ],
+    "year": 2014,
+    "director": "Wes Anderson",
+    "cast": [
+      "Ralph Fiennes",
+      "F. Murray Abraham",
+      "Mathieu Amalric"
+    ],
+    "classification": "Apto para menores de 14",
+    "videos": [
+      {
+        "mainVideoUrl": "https://www.youtube.com/watch?v=1Fg5iWmQjwk",
+        "secondaryVideoUrl": "https://www.youtube.com/watch?v=mkWHXWUR-1k",
+        "additionalVideoUrl": "https://www.youtube.com/watch?v=2nifkgGC26Q"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "646195e3bdbb0a0edf67e60b"
+    },
+    "title": "The Crown",
+    "description": "Una serie dramática que sigue la vida de la Reina Isabel II desde su boda en 1947 hasta la actualidad.",
+    "images": [
+      {
+        "mainImg": "https://es.web.img3.acsta.net/r_1280_720/pictures/16/10/18/22/23/076799.jpg",
+        "secondaryImg": "https://miro.medium.com/v2/resize:fit:1400/1*67OZgDf1G_rRidBTtzbk-Q.jpeg",
+        "verticalMinImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxH2BV7-XJiDVshWdZQIXj6CGf91wjD_gLi7YetIQ2XPPRPoduSFL_HuPkcEBHHvv-Mfw&usqp=CAU",
+        "horizontalMinImg": "https://tigernewspaper.net/wp-content/uploads/2018/01/the-crown-900x600.jpg",
+        "bigVerticalImg": "https://es.web.img3.acsta.net/r_1280_720/pictures/17/11/07/10/51/4492416.jpg"
+      }
+    ],
+    "type": "Serie",
+    "category": "Drama",
+    "franchise": [
+      {
+        "isFranchise": false,
+        "franchiseName": ""
+      }
+    ],
+    "duration": [
+      {
+        "timeDuration": 60,
+        "seasonDuration": 4
+      }
+    ],
+    "year": 2016,
+    "director": "Varios directores",
+    "cast": [
+      "Olivia Colman",
+      "Tobias Menzies",
+      "Helena Bonham Carter",
+      "Josh O'Connor"
+    ],
+    "classification": "No apto para menores de 14",
+    "videos": [
+      {
+        "mainVideoUrl": "https://www.youtube.com/watch?v=zzBjNG1GKu4",
+        "secondaryVideoUrl": "https://www.youtube.com/watch?v=2XXVhB0XMEc",
+        "additionalVideoUrl": "https://www.youtube.com/watch?v=9FdUHrUiw7Y"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "646195e3bdbb0a0edf67e60c"
+    },
+    "title": "Juego de Tronos",
+    "description": "Una historia épica de traición, lealtad, amor y guerra que sigue las luchas de poder entre varias casas nobles por el control del Trono de Hierro del continente de Westeros. Basado en los libros de George R.R. Martin.",
+    "images": [
+      {
+        "mainImg": "https://i.imgur.com/Y18GisM.jpg",
+        "secondaryImg": "https://i.imgur.com/1ZxtEQk.jpg",
+        "verticalMinImg": "https://i.imgur.com/gbYABnE.jpg",
+        "horizontalMinImg": "https://i.imgur.com/B7VnRfB.jpg",
+        "bigVerticalImg": "https://i.imgur.com/ly5UoZM.jpg"
+      }
+    ],
+    "type": "Serie",
+    "category": "Drama",
+    "franchise": [
+      {
+        "isFranchise": true,
+        "franchiseName": "Juego de Tronos"
+      }
+    ],
+    "duration": [
+      {
+        "seasonDuration": 8
+      }
+    ],
+    "year": 2011,
+    "director": "David Benioff, D.B. Weiss",
+    "cast": [
+      "Emilia Clarke",
+      "Kit Harington",
+      "Peter Dinklage",
+      "Lena Headey",
+      "Maisie Williams",
+      "Sophie Turner",
+      "Nikolaj Coster-Waldau"
+    ],
+    "classification": "No apto para menores de 14",
+    "videos": [
+      {
+        "mainVideoUrl": "https://www.youtube.com/watch?v=rlR4PJn8b8I",
+        "secondaryVideoUrl": "https://www.youtube.com/watch?v=s7L2PVdrb_8",
+        "additionalVideoUrl": "https://www.youtube.com/watch?v=kX9hsnrY8SU"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "646195e3bdbb0a0edf67e60d"
+    },
+    "title": "Ratatouille",
+    "description": "Remy, una rata con un sentido del olfato excepcional y un amor por la cocina, sueña con convertirse en chef en un famoso restaurante de París.Con la ayuda de un joven ayudante de cocina llamado Linguini, Remy se acerca a su objetivo mientras oculta su verdadera identidad.",
+    "images": [
+      {
+        "mainImg": "https://live.staticflickr.com/8041/7988627114_8605c892d7_b.jpg",
+        "secondaryImg": "https://static.posters.cz/image/1300/posters/ratatouille-elenco-i3043.jpg",
+        "verticalMinImg": "https://cdn.shopify.com/s/files/1/0037/8008/3782/products/ratatouille_2_framed1_c4f13ee9-e7c0-4f23-9498-b726120626ea-357014_1250x.jpg?v=1611688258",
+        "horizontalMinImg": "https://www.pastposters.com/cw3/assets/product_full/JamieR-PT/ratatouille-cinema-quad-movie-poster-(teaser-V2-1).jpg",
+        "bigVerticalImg": "https://i.blogs.es/e4550d/ratatouille/450_1000.jpg"
+      }
+    ],
+    "type": "Película",
+    "category": "Comedia",
+    "franchise": [
+      {
+        "isFranchise": false,
+        "franchiseName": ""
+      }
+    ],
+    "duration": [
+      {
+        "timeDuration": 111,
+        "seasonDuration": null
+      }
+    ],
+    "year": 2007,
+    "director": "Brad Bird, Jan Pinkava",
+    "cast": [
+      "Patton Oswalt",
+      "Ian Holm",
+      "Lou Romano",
+      "Jane Lynch",
+      "Peter Sohn"
+    ],
+    "classification": "Apto para menores de 14",
+    "videos": [
+      {
+        "mainVideoUrl": "https://www.youtube.com/watch?v=q2cSseNsKDs",
+        "secondaryVideoUrl": "https://www.youtube.com/watch?v=NgsQ8mVkN8w",
+        "additionalVideoUrl": "https://www.youtube.com/watch?v=qfwix8Xg1nI"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "646195e3bdbb0a0edf67e60e"
+    },
+    "title": "Renfield",
+    "description": "Renfield es una película de comedia de terror dirigida por Chris McKay. La trama sigue a R.M. Renfield, un empleado de una empresa de tecnología que es enviado a Rumania para cerrar un trato comercial con un misterioso conde. Allí descubre que el conde es un vampiro y se convierte en su siervo.",
+    "images": [
+      {
+        "mainImg": "https://www.themoviedb.org/t/p/original/uGw4zPyiBAx9B1j9pKYWSvFiLug.jpg",
+        "secondaryImg": "https://www.themoviedb.org/t/p/original/6CBKRe9ossDiQ7UaSfvG4I07hK7.jpg",
+        "verticalMinImg": "https://www.themoviedb.org/t/p/original/3wFtcXZT9iim5z899xvZYzErwax.jpg",
+        "horizontalMinImg": "https://www.themoviedb.org/t/p/original/pY5r9M7vTnjyEKpvIowXDu9FUBX.jpg",
+        "bigVerticalImg": "https://www.themoviedb.org/t/p/original/7v72jhEOFaVHCKYBTW1DXrGyuF2.jpg"
+      }
+    ],
+    "type": "Película",
+    "category": "Comedia",
+    "franchise": [
+      {
+        "isFranchise": false,
+        "franchiseName": null
+      }
+    ],
+    "duration": [
+      {
+        "timeDuration": 100,
+        "seasonDuration": null
+      }
+    ],
+    "year": 2022,
+    "director": "Chris McKay",
+    "cast": [
+      "Nicholas Hoult",
+      "Mackenzie Davis",
+      "Lily Collins",
+      "Mark Gatiss"
+    ],
+    "classification": "No apto para menores de 14",
+    "videos": [
+      {
+        "mainVideoUrl": "https://www.youtube.com/watch?v=J093zSvG-LI&ab_channel=TrailersInSpanish",
+        "secondaryVideoUrl": "https://www.youtube.com/watch?v=39bxw-wB4WE&ab_channel=TrailersInSpanish",
+        "additionalVideoUrl": "https://www.youtube.com/watch?v=XenKRHkcgZA&ab_channel=SensaCineTRAILERS"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "646195e3bdbb0a0edf67e60f"
+    },
+    "title": "Dungeons & Dragons",
+    "description": "Un grupo de aventureros debe enfrentarse a un malvado mago que busca el poder absoluto a través de un artefacto mágico.",
+    "images": [
+      {
+        "mainImg": "https://www.themoviedb.org/t/p/original/77XBzUUFX5aHI3Jz3ipJTtsDWzk.jpg",
+        "secondaryImg": "https://www.themoviedb.org/t/p/original/qmEKe0AEsns2WXinbkGxlCxlTHq.jpg",
+        "verticalMinImg": "https://www.themoviedb.org/t/p/original/20uHjZ4yCPD2x0ndcxZaxM7hLIy.jpg",
+        "horizontalMinImg": "https://www.themoviedb.org/t/p/original/fC6TZRnySFZ7RMYdOA4Yt21q0Y9.jpg",
+        "bigVerticalImg": "https://www.themoviedb.org/t/p/original/dSqqncFSlXLqQESp8LbF67x0mLH.jpg"
+      }
+    ],
+    "type": "Película",
+    "category": "Comedia",
+    "franchise": [
+      {
+        "isFranchise": true,
+        "franchiseName": "Dungeons & Dragons"
+      }
+    ],
+    "duration": [
+      {
+        "timeDuration": 120,
+        "seasonDuration": null
+      }
+    ],
+    "year": 2022,
+    "director": "Jonathan Goldstein, John Francis Daley",
+    "cast": [
+      "Chris Pine",
+      "Michelle Rodriguez",
+      "Regé-Jean Page",
+      "Justice Smith",
+      "Hugh Grant"
+    ],
+    "classification": "No apto para menores de 14",
+    "videos": [
+      {
+        "mainVideoUrl": "https://www.youtube.com/watch?v=y4fBOLpzdwg&ab_channel=SensaCineTRAILERS",
+        "secondaryVideoUrl": "https://www.youtube.com/watch?v=YMHFdj5tnsQ&ab_channel=PARAMOUNTPICTURESM%C3%89XICO",
+        "additionalVideoUrl": "https://www.youtube.com/watch?v=Ko9OHpKE_KE&ab_channel=SensaCineTRAILERS"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "646195e3bdbb0a0edf67e610"
+    },
+    "title": "Vida Extra",
+    "description": "Lucía es una mujer que vive obsesionada con el mundo virtual. Tras un grave accidente que la deja en coma, su marido se encarga de conectar su cerebro a un videojuego de realidad virtual en el que ella puede tener una segunda oportunidad de vivir.",
+    "images": [
+      {
+        "mainImg": "https://www.themoviedb.org/t/p/original/2iZEJtsoVNKl9PUxJd5XzIATvxL.jpg",
+        "secondaryImg": "https://www.themoviedb.org/t/p/original/iU02yC9tkeAo3WVpDgTSNyhFslI.jpg",
+        "verticalMinImg": "https://www.themoviedb.org/t/p/original/nTPT16dZEgC0NiQsuslIFror8ag.jpg",
+        "horizontalMinImg": "https://www.themoviedb.org/t/p/original/nTPT16dZEgC0NiQsuslIFror8ag.jpg",
+        "bigVerticalImg": "ghttps://www.themoviedb.org/t/p/original/nTPT16dZEgC0NiQsuslIFror8ag.jpg"
+      }
+    ],
+    "type": "Película",
+    "category": "Comedia",
+    "franchise": [
+      {
+        "isFranchise": false,
+        "franchiseName": null
+      }
+    ],
+    "duration": [
+      {
+        "timeDuration": 102,
+        "seasonDuration": null
+      }
+    ],
+    "year": 2021,
+    "director": "Lino Escalera",
+    "cast": [
+      "Nathalie Poza",
+      "Pablo Derqui",
+      "Pau Durà",
+      "Berta Vázquez"
+    ],
+    "classification": "No apto para menores de 14",
+    "videos": [
+      {
+        "mainVideoUrl": "https://www.youtube.com/watch?v=O-wvn1D3N4s&ab_channel=LionsgateMovies",
+        "secondaryVideoUrl": "https://www.youtube.com/watch?v=5mJ77BIlWmc&ab_channel=MovieCoverage",
+        "additionalVideoUrl": "https://www.youtube.com/watch?v=DBYjd8Wkq8Q&ab_channel=BuzzFeedMultiplayer"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "646195e3bdbb0a0edf67e611"
+    },
+    "title": "Las vueltas del amor",
+    "description": "La película sigue la historia de Ana y Erik, una pareja que vive en un pequeño pueblo en el campo español. Cuando Erik tiene que trasladarse a la ciudad para buscar trabajo, su relación comienza a tambalearse y se enfrentan a una serie de desafíos que pondrán en duda su amor y su futuro juntos.",
+    "images": [
+      {
+        "mainImg": "https://www.themoviedb.org/t/p/original/k7375kFt4ksxBbqLw6w5Fl1hNUX.jpg",
+        "secondaryImg": "https://www.themoviedb.org/t/p/original/zTf3TSPtfbEnwiNpb2qkYh1ac80.jpg",
+        "verticalMinImg": "https://www.themoviedb.org/t/p/original/6q7ArnGfzJCgI1lB6MGGuSQTfTB.jpg",
+        "horizontalMinImg": "https://www.themoviedb.org/t/p/original/9NFHGJ0smkVHIEiuoxvbWQaJskF.jpg",
+        "bigVerticalImg": "https://www.themoviedb.org/t/p/original/uqYtxszXzzmu8QhfUWVsVNdroRD.jpg"
+      }
+    ],
+    "type": "Película",
+    "category": "Comedia",
+    "franchise": [
+      {
+        "isFranchise": false,
+        "franchiseName": null
+      }
+    ],
+    "duration": [
+      {
+        "timeDuration": 97,
+        "seasonDuration": null
+      }
+    ],
+    "year": 2021,
+    "director": "Icíar Bollaín",
+    "cast": [
+      "Candela Peña",
+      "Sergi López",
+      "Nathalie Poza",
+      "Raúl Arévalo"
+    ],
+    "classification": "No apto para menores de 14",
+    "videos": [
+      {
+        "mainVideoUrl": "https://www.youtube.com/watch?v=E_IIIXv1Nuc&ab_channel=HBOMaxLatinoam%C3%A9rica",
+        "secondaryVideoUrl": "https://www.youtube.com/watch?v=Z7L2VShbxs8&ab_channel=Franklg",
+        "additionalVideoUrl": "https://www.youtube.com/watch?v=VX-dWvCR-QQ&ab_channel=HBOMaxLatinoam%C3%A9rica"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "646195e3bdbb0a0edf67e612"
+    },
+    "title": "Bittersweet Sixteen",
+    "description": "La película cuenta la historia de dos amigas de la infancia, Amy y Sarah, que están a punto de cumplir 16 años y deciden celebrar sus cumpleaños juntas. Sin embargo, las cosas se complican cuando sus respectivos padres comienzan a tener problemas y las dos amigas se ven envueltas en una serie de situaciones cómicas y emotivas mientras tratan de mantener la fiesta en marcha.",
+    "images": [
+      {
+        "mainImg": "https://www.themoviedb.org/t/p/original/kdnS8yaH461KX9F9ssjM8hJEqC6.jpg",
+        "secondaryImg": "https://www.themoviedb.org/t/p/original/kdnS8yaH461KX9F9ssjM8hJEqC6.jpg",
+        "verticalMinImg": "https://www.themoviedb.org/t/p/original/kdnS8yaH461KX9F9ssjM8hJEqC6.jpg",
+        "horizontalMinImg": "https://www.themoviedb.org/t/p/original/kdnS8yaH461KX9F9ssjM8hJEqC6.jpg",
+        "bigVerticalImg": "https://www.themoviedb.org/t/p/original/kdnS8yaH461KX9F9ssjM8hJEqC6.jpg"
+      }
+    ],
+    "type": "Película",
+    "category": "Comedia",
+    "franchise": [
+      {
+        "isFranchise": false,
+        "franchiseName": null
+      }
+    ],
+    "duration": [
+      {
+        "timeDuration": 85,
+        "seasonDuration": null
+      }
+    ],
+    "year": 2022,
+    "director": "Molly Miller",
+    "cast": [
+      "Olivia Rodrigo",
+      "Marsai Martin",
+      "Michael Cera",
+      "Rachel McAdams"
+    ],
+    "classification": "No apto para menores de 14",
+    "videos": [
+      {
+        "mainVideoUrl": "https://www.youtube.com/watch?v=6MfP0Q5BWoI&ab_channel=KFDBelgium",
+        "secondaryVideoUrl": "https://www.youtube.com/watch?v=-2ZvNVYhWR8&ab_channel=KETNET-STUDIO100",
+        "additionalVideoUrl": "https://www.youtube.com/watch?v=-2ZvNVYhWR8&ab_channel=KETNET-STUDIO100"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "646195e3bdbb0a0edf67e613"
+    },
+    "title": "Kryptonim",
+    "description": "Un agente secreto es enviado a una misión en Europa del Este para encontrar y recuperar un arma nuclear robada antes de que caiga en manos equivocadas.",
+    "images": [
+      {
+        "mainImg": "https://www.themoviedb.org/t/p/original/2Xk53DyjGERl9nDm07DwJJsVXHa.jpg",
+        "secondaryImg": "https://www.themoviedb.org/t/p/original/it3aYAPBhx2Ph4aWX3e5s77vXXL.jpg",
+        "verticalMinImg": "https://www.themoviedb.org/t/p/original/mphFhFjvTGsDnSQMUIyms2GD4T0.jpg",
+        "horizontalMinImg": "https://www.themoviedb.org/t/p/original/mphFhFjvTGsDnSQMUIyms2GD4T0.jpg",
+        "bigVerticalImg": "https://www.themoviedb.org/t/p/original/mphFhFjvTGsDnSQMUIyms2GD4T0.jpg"
+      }
+    ],
+    "type": "Película",
+    "category": "Comedia",
+    "franchise": [
+      {
+        "isFranchise": false,
+        "franchiseName": null
+      }
+    ],
+    "duration": [
+      {
+        "timeDuration": 120,
+        "seasonDuration": null
+      }
+    ],
+    "year": 2023,
+    "director": "John Doe",
+    "cast": [
+      "John Smith",
+      "Jane Doe",
+      "Michael Johnson"
+    ],
+    "classification": "No apto para menores de 14",
+    "videos": [
+      {
+        "mainVideoUrl": "https://www.youtube.com/watch?v=Uy0-6XC60SE&t=4s&ab_channel=KinoSwiatPL",
+        "secondaryVideoUrl": "https://www.youtube.com/watch?v=DQpZfAl6ux4&ab_channel=KinoHeliosPolska",
+        "additionalVideoUrl": "https://www.youtube.com/watch?v=DQpZfAl6ux4&ab_channel=KinoHeliosPolska"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "646195e3bdbb0a0edf67e614"
+    },
+    "title": "Casi Estrellas de Rock",
+    "description": "Un grupo de amigos de la infancia se reúnen años después para revivir sus días de gloria en una banda de rock, y competir en un concurso musical en su ciudad natal.",
+    "images": [
+      {
+        "mainImg": "https://www.themoviedb.org/t/p/original/9DysN81njIsFr2QP1TsiUB3hYxM.jpg",
+        "secondaryImg": "https://www.themoviedb.org/t/p/original/p2RxfIlmIGzIG87FtLlbplJpMDK.jpg",
+        "verticalMinImg": "https://www.themoviedb.org/t/p/original/9DysN81njIsFr2QP1TsiUB3hYxM.jpg",
+        "horizontalMinImg": "https://www.themoviedb.org/t/p/original/9DysN81njIsFr2QP1TsiUB3hYxM.jpg",
+        "bigVerticalImg": "https://www.themoviedb.org/t/p/original/9DysN81njIsFr2QP1TsiUB3hYxM.jpg"
+      }
+    ],
+    "type": "Película",
+    "category": "Comedia",
+    "franchise": [
+      {
+        "isFranchise": false,
+        "franchiseName": null
+      }
+    ],
+    "duration": [
+      {
+        "timeDuration": 110,
+        "seasonDuration": null
+      }
+    ],
+    "year": 2022,
+    "director": "Juan Pérez",
+    "cast": [
+      "Pedro González",
+      "Ana Martínez",
+      "Luisa Fernández",
+      "Miguel García"
+    ],
+    "classification": "No apto para menores de 14",
+    "videos": [
+      {
+        "mainVideoUrl": "https://www.youtube.com/watch?v=gAVqPv35Jtg&ab_channel=TrailersLatinos",
+        "secondaryVideoUrl": "https://www.youtube.com/watch?v=0YQjE7_yZmQ&ab_channel=JPeliculasHD",
+        "additionalVideoUrl": "https://www.youtube.com/watch?v=gAVqPv35Jtg&ab_channel=TrailersLatinos"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "646195e3bdbb0a0edf67e615"
+    },
+    "title": "Las fiestas",
+    "description": "Un grupo de amigos decide celebrar la Navidad en una casa de campo aislada. Lo que prometía ser una velada perfecta, se convierte en una pesadilla cuando empiezan a suceder cosas extrañas.",
+    "images": [
+      {
+        "mainImg": "https://www.themoviedb.org/t/p/original/wPy5D0Eqy0jCtFcU6WuNFBV3hOS.jpg",
+        "secondaryImg": "https://www.themoviedb.org/t/p/original/AcNNVN0No1HVbYewbf0Az5bMVJ9.jpg",
+        "verticalMinImg": "https://www.themoviedb.org/t/p/original/iOkz5JgFI0dStdkNsbfDHFGy6bd.jpg",
+        "horizontalMinImg": "https://www.themoviedb.org/t/p/original/vrIvOcdd4BUz8ysfaE9pjwOzlI8.jpg",
+        "bigVerticalImg": "https://www.themoviedb.org/t/p/original/i6m6QfhwYqT8deXzHE4ywFzmbsT.jpg"
+      }
+    ],
+    "type": "Película",
+    "category": "Comedia",
+    "franchise": [
+      {
+        "isFranchise": false,
+        "franchiseName": null
+      }
+    ],
+    "duration": [
+      {
+        "timeDuration": 90,
+        "seasonDuration": null
+      }
+    ],
+    "year": 2022,
+    "director": "Juan Pérez",
+    "cast": [
+      "Ana García",
+      "Luis Martínez",
+      "Sofía Torres"
+    ],
+    "classification": "No apto para menores de 14",
+    "videos": [
+      {
+        "mainVideoUrl": "https://www.youtube.com/watch?v=gQWE75zSDJU&ab_channel=StarDistributionLatinoam%C3%A9rica",
+        "secondaryVideoUrl": "https://www.youtube.com/watch?v=DQ85-2lx8Bs&ab_channel=StarDistributionLatinoam%C3%A9rica",
+        "additionalVideoUrl": "https://www.youtube.com/watch?v=DQ85-2lx8Bs&ab_channel=StarDistributionLatinoam%C3%A9rica"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "646195e3bdbb0a0edf67e616"
+    },
+    "title": "Babylon",
+    "description": "La película sigue a un grupo de aspirantes a estrellas de cine y cineastas que intentan triunfar en la Edad de Oro de Hollywood en los años 20, mientras lidian con el sistema de estudios del momento.",
+    "images": [
+      {
+        "mainImg": "https://www.themoviedb.org/t/p/original/oLZULW6Kn5imFM427tWfqIPMLmP.jpg",
+        "secondaryImg": "https://www.themoviedb.org/t/p/original/oCKZAdUROqdlTcUOstqJ1gM8JQt.jpg",
+        "verticalMinImg": "https://www.themoviedb.org/t/p/original/5fxTB08O7CW1hAcN2MWOKodp1h1.jpg",
+        "horizontalMinImg": "https://www.themoviedb.org/t/p/original/92J3UHpIrpkSk6kDnKsnDp5Lnz3.jpg",
+        "bigVerticalImg": "https://www.themoviedb.org/t/p/original/97YB4PkXVl0O4JW0AKZpXQ79ecY.jpg"
+      }
+    ],
+    "type": "película",
+    "category": "comedia",
+    "franchise": [
+      {
+        "isFranchise": false,
+        "franchiseName": null
+      }
+    ],
+    "duration": [
+      {
+        "timeDuration": 120,
+        "seasonDuration": null
+      }
+    ],
+    "year": 2022,
+    "director": "Damien Chazelle",
+    "cast": [
+      "Margot Robbie",
+      "Brad Pitt",
+      "Tobey Maguire",
+      "Rami Malek",
+      "Samara Weaving"
+    ],
+    "classification": "No apto para menores de 14",
+    "videos": [
+      {
+        "mainVideoUrl": "https://www.youtube.com/watch?v=gBil8RpweBE&ab_channel=ParamountPicturesSpain",
+        "urlVideoSecundario": "https://www.youtube.com/watch?v=UKSgMMgE4xo&ab_channel=TrailersInSpanish",
+        "secondaryVideoUrl": "https://www.youtube.com/watch?v=gBil8RpweBE&ab_channel=ParamountPicturesSpain"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "646195e3bdbb0a0edf67e617"
+    },
+    "title": "El Triángulo de la Tristeza",
+    "description": "Tres amigos de la infancia se reencuentran después de muchos años para emprender un viaje que los llevará a través de paisajes hermosos y también peligrosos. Durante el camino, tendrán que lidiar con sus propios demonios internos y aprender a confiar el uno en el otro si quieren llegar al final del viaje sanos y salvos.",
+    "images": [
+      {
+        "mainImg": "https://www.themoviedb.org/t/p/original/fbuRh2bTCqcuamIQuldqLBTwRjg.jpg",
+        "secondaryImg": "https://www.themoviedb.org/t/p/original/9zKTjrNHM5dYcy0r94QZ463h7Md.jpg",
+        "verticalMinImg": "https://www.themoviedb.org/t/p/original/b4Auze3uGwW6iuhGA9wSnrnUow8.jpg",
+        "horizontalMinImg": "https://www.themoviedb.org/t/p/original/b4Auze3uGwW6iuhGA9wSnrnUow8.jpg",
+        "bigVerticalImg": "https://www.themoviedb.org/t/p/original/b4Auze3uGwW6iuhGA9wSnrnUow8.jpg"
+      }
+    ],
+    "type": "película",
+    "category": "comedia",
+    "franchise": [
+      {
+        "isFranchise": false,
+        "franchiseName": null
+      }
+    ],
+    "duration": [
+      {
+        "timeDuration": 120,
+        "seasonDuration": null
+      }
+    ],
+    "year": 2021,
+    "director": "Diego Quemada-Diez",
+    "cast": [
+      "Gabino Rodríguez",
+      "Ricardo Abarca",
+      "Harold Torres"
+    ],
+    "classification": "No apto para menores de 14",
+    "videos": [
+      {
+        "mainVideoUrl": "https://www.youtube.com/watch?v=aatt1Ycr4ag&ab_channel=SensaCineTRAILERS",
+        "secondaryVideoUrl": "https://www.youtube.com/watch?v=izxl6zgYnjs&ab_channel=Avalon",
+        "additionalVideoUrl": "https://www.youtube.com/watch?v=Jgshl9ZZcQk&ab_channel=TrailersInSpanish"
+      }
+    ]
+  }]
