@@ -1,6 +1,6 @@
-// //? Se importa la librería express y los middlewares morgan y helmet.
-const express = require("express");
-const cors = require ("cors")
+// //? Se importa la librería express 
+const express = require('express');
+const cors = require ('cors');
 
 // //? Se guarda en la constante app todos los métodos de la librería express.
 const app = express();
@@ -9,12 +9,18 @@ const app = express();
 const port = 3000;
 
 
+app.use((req, res, next) => {
+  res.setHeader('Access-Control-Allow-Origin', 'http://localhost:4200');
+  res.setHeader('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE');
+  res.setHeader('Access-Control-Allow-Headers', 'Content-Type, Authorization');
+  next();
+});
+
+
 // //? Se importa las rutas para las APIs de usuarios y contenido.
 const users_routes = require("./API/routes/users_routes");
 const content_routers = require("./API/routes/content_routes");
 
-// app.use(helmet());              //TODO: Ayuda a proteger la aplicación configurando diversos encabezados HTTP.
-// app.use(morgan("combined"));    //TODO:  Imprime en consola información detallada sobre cada solicitud entrante al servidor.
 app.use(express.json());        //TODO: Convierte el cuerpo de la solicitud en un objeto JSON.
 
 
@@ -32,4 +38,3 @@ app.use(cors(
      console.log("El servidor se ejecuta en el puerto http://localhost:" + port);
    });
 
-//! http://localhost:3000/users
