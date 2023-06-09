@@ -1,6 +1,5 @@
 const mongoose = require("mongoose");
 
-
 //! Esta es la URI de la base de datos CineBit
 const Uri = "mongodb+srv://mauro210:Luisa210@cluster0.8wbty4w.mongodb.net/DBCineBit?retryWrites=true&w=majority";
 
@@ -57,8 +56,10 @@ const userSchema = new mongoose.Schema({
        type: mongoose.Schema.Types.ObjectId,
         ref: 'Content' 
         }
-    }]      //? Contenido seleccionado como favorito por el usuario
-
+    }],     //? Contenido seleccionado como favorito por el usuario
+    role: {
+        type: String, default:"user"
+    }       //? Rol opcional al crear cuenta, utilizando User como defecto.
 }, { collection: 'Users' });
 
 //* Exportamos el modelo para ser utilizado en otros módulos
